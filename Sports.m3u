@@ -160,37 +160,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122760
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
 
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://i.ibb.co/GJWq7Wq/assuhd.png" group-title="SPORTS", Assp 1 UHD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
-https://cors-proxy.elfsight.com/https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HWm1ZV0k0TnpndFl6RmxOeTAwT0dOaUxXSTNOR0l0TlRFeFpUUTVNREF5Tm1NeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzA1MDUwNCwiaWF0IjoxNzE2NDQ2NTA0fQ.trCEoeJYe-roNnO4GZCKfpEvaatj3fSAs0gmhGpB3XM"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://i.postimg.cc/cJNBS015/muat-turun.png" group-title="Sports" tvg-logo="https://telegra.ph/file/bf3c99a8a7c2b8aae472c.png" tvg-id="Sports",Astro Bola 1
-https://bapak.natannafalah.workers.dev/https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HWm1ZV0k0TnpndFl6RmxOeTAwT0dOaUxXSTNOR0l0TlRFeFpUUTVNREF5Tm1NeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzA1MDUwNCwiaWF0IjoxNzE2NDQ2NTA0fQ.trCEoeJYe-roNnO4GZCKfpEvaatj3fSAs0gmhGpB3XM"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="https://i.postimg.cc/cJNBS015/muat-turun.png" group-title="Sports" tvg-logo="https://telegra.ph/file/6996a6dca16f43f734049.png" tvg-id="Sports",Astro Bola 2
-https://bapak.natannafalah.workers.dev/https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HWm1ZV0k0TnpndFl6RmxOeTAwT0dOaUxXSTNOR0l0TlRFeFpUUTVNREF5Tm1NeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzA1MDUwNCwiaWF0IjoxNzE2NDQ2NTA0fQ.trCEoeJYe-roNnO4GZCKfpEvaatj3fSAs0gmhGpB3XM"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORTS",Assp 1
-https://bapak.natannafalah.workers.dev/https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5HWm1ZV0k0TnpndFl6RmxOeTAwT0dOaUxXSTNOR0l0TlRFeFpUUTVNREF5Tm1NeSIsIndtb3BpZCI6MzIsImV4cCI6MTcxNzA1MDUwNCwiaWF0IjoxNzE2NDQ2NTA0fQ.trCEoeJYe-roNnO4GZCKfpEvaatj3fSAs0gmhGpB3XM"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -3498,22 +3467,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
  
 #EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaisports3.png",Dubai Sports 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
- 
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/26
 
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
-
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
-
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
