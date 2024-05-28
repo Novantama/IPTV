@@ -343,19 +343,19 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="👑AFC U23👑",SPORTSTARS 4 (V+)
+#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="AFC",SPORTSTARS 4 (V+)
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="👑AFC U23👑",SOCCER CHANNEL (V+)
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="AFC",SOCCER CHANNEL (V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="👑AFC U23👑",SOCCER CHANNEL B (V+)
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="AFC",SOCCER CHANNEL B (V+)
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
@@ -366,34 +366,34 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerch
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AFC_Cup_logo.svg/480px-AFC_Cup_logo.svg.png",
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3cdXGB/eventinfo.png" group-title="👑AFC U23👑", AFC CUP INFO 🇮🇩
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/v3cdXGB/eventinfo.png" group-title="AFC", AFC CUP INFO 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="👑AFC U23👑", AFC CUP 🇮🇩
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="👑AFC U23👑", AFC CUP 🇸🇦
+#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="👑AFC U23👑", AFC CUP 🇸🇦
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="👑AFC U23👑", AFC CUP 🇸🇦
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="👑AFC U23👑", AFC CUP 🇮🇩
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
