@@ -1204,3 +1204,64 @@ https://d2kziuzkf9oizb.cloudfront.net/rd004/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="BRUNEI" group-logo="https://pictr.com/images/2023/04/18/Enlr0g.png" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/nasional-title.png",RTB Nasional
 https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8						
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+ 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAdaytodie.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://wkmq.vizcloud.club/simple/EqPFIfMQWADtjDlGha7rC5Mu_lwU5PnpCAN7rqk+wYMnU94US2El/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://wkmq.vizcloud.club/simple/EqPFIfMQWADtjDlGha7rC5Mu_lwU5PnpCAN7rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://wkmq.vizcloud.club/simple/EqPFIfMQWADtjDlGha7rC5Mu_lwU5PnpCAN7rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
+https://wkmq.vizcloud.club/simple/EqPFIfMQWADtjDlGha7rC5Mu_lwU5PnpCAN7rqk+wYMnU94US2El/br/H3/v.m3u8
+
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/Sub65.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://xmze.vizcloud.co/simple/EqPFIfMQWADtjDlGha7rC5Qu_FxY5Lu7TB57rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://xmze.vizcloud.co/simple/EqPFIfMQWADtjDlGha7rC5Qu_FxY5Lu7TB57rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://xmze.vizcloud.co/simple/EqPFIfMQWADtjDlGha7rC5Qu_FxY5Lu7TB57rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H2/v.m3u8
+
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAgentgame.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
+https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H3/v.m3u8
+
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAllQuietontheWesternFront.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H2/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
+https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
+
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/Subambulance.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
+https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
