@@ -1,7 +1,7 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Sportstars.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Sportstars.png " group-title="SPORTS",Sportstars
+#EXTINF:-1 tvg-id="Sportstars.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Sportstars.png "group-title="SPORTS",Sportstars
 https://testfunctionlive.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -13,7 +13,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Sportstars 3.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Sportstars-3.png " group-title="SPORTS ",Sportstars 3
+#EXTINF:-1 tvg-id="Sportstars 3.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Sportstars-3.png " "group-title=SPORTS ",Sportstars 3
 https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -237,61 +237,49 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg" group-title="AFC",SPORTSTARS 4 (V+)
+#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg"group-title="Sports",SPORTSTARS 4 (V+)
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="AFC",SOCCER CHANNEL (V+)
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg"group-title="Sports",SOCCER CHANNEL (V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="AFC",SOCCER CHANNEL B (V+)
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg"group-title="Sports",SOCCER CHANNEL B (V+)
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AFC_Cup_logo.svg/480px-AFC_Cup_logo.svg.png",
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇮🇩
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png"group-title="Sports", AFC CUP 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇸🇦
+#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png"group-title="Sports", AFC CUP 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇸🇦
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png"group-title="Sports", AFC CUP 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇸🇦
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png"group-title="Sports", AFC CUP 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png" group-title="AFC", AFC CUP 🇮🇩
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/XjL3ZJC/afccup.png"group-title="Sports", AFC CUP 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1707,7 +1695,7 @@ https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/WWE/manifest.mpd
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU" group-title="AFC", SSQ 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU"group-title="Sports", SSQ 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
@@ -1715,7 +1703,7 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="AFC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
+#EXTINF:-1group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 <============================ Sports ========================>
 
@@ -1881,45 +1869,45 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="LIGA EROPA",BUNDES LIGA 5 (SKY SPORRT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="Sports",BUNDES LIGA 5 (SKY SPORRT)
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298592
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="LIGA EROPA",BUNDES LIGA 7 (DAZN 1)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dQj8Q56/BUNDES-LIGA.png" group-title="Sports",BUNDES LIGA 7 (DAZN 1)
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/48355
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="LIGA EROPA"​,LA LIGA 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/FzzV8L3/liga-spain.png" group-title="Sports"​,LA LIGA 2
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/297791
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", LaLiga DAZN 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true", LaLiga DAZN 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
-#EXTINF:-1 group-title="LIGA EROPA" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true",LaLiga TV Hypermotion 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="LIGA EROPA",LIGA ITALY 2 (SKY SPORT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="Sports",LIGA ITALY 2 (SKY SPORT)
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/84505
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="LIGA EROPA",LIGA ITALY 3 (SKY SPORT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jy7SK52/calcio.png" group-title="Sports",LIGA ITALY 3 (SKY SPORT)
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/79220
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="LIGA EROPA",LIGA PRANCIS (+FOOT)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PtgBGrT/LIGUE.jpg" group-title="Sports",LIGA PRANCIS (+FOOT)
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/297371
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS", SKY SPORTS
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Sports", SKY SPORTS
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/266
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="LIGA INGGRIS"​,PREMIER SPORTS 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Sports"​,PREMIER SPORTS 1
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/1097
 
 
@@ -4377,41 +4365,41 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/640px-UEFA_Europa_League_%28football_competition%29_logo.svg.png",
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇬🇧
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇬🇧
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051ad8db73a944abe9ec83ad88987b:100c985696718d923c4b1289c1cf0d7d
 https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(tntsport1)/manifest_720.mpd
 
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇮🇹
+#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇮🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
 https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇲🇾
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇲🇾
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
 
-#EXTINF:-1 tvg-id="here" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib
+#EXTINF:-1 tvg-id="here" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
 https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 
-#EXTINF:-1 tvg-id="TV3+ (N) (T)" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇳🇴
+#EXTINF:-1 tvg-id="TV3+ (N) (T)" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇳🇴
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4419,11 +4407,11 @@ https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc603bd4cbdaae7f9debc7accca10266:bb2ed19b76e7bd6cb8ad228b4a79827c
 https://aws-appeartv-cdn.rikstv.no/rikstv/708/2/dash/Viasat4/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇰🇿
+#EXTINF:-1 tvg-id="" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇰🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
-#EXTINF:-1 tvg-id="МАТЧ ПРЕМЬЕР" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇷🇺
+#EXTINF:-1 tvg-id="МАТЧ ПРЕМЬЕР" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4431,7 +4419,7 @@ https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 http://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-id="МАТЧ ПРЕМЬЕР" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇷🇺
+#EXTINF:-1 tvg-id="МАТЧ ПРЕМЬЕР" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4439,7 +4427,7 @@ http://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 https://cors-proxy.elfsight.com/http://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇸🇰
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4448,7 +4436,7 @@ https://cors-proxy.elfsight.com/http://video.beeline.tv/live/d/channel318.isml/m
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
 https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="here" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib 🇸🇰
+#EXTINF:-1 tvg-id="here" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib 🇸🇰
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4457,7 +4445,7 @@ https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_ct_sport/pl
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
 https://cors-proxy.elfsight.com/https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="here" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="UEL", FINAL UEL 23 May 2024 02:00 wib
+#EXTINF:-1 tvg-id="here" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2022/11/07/europa-league_169.jpeg?w=600&q=90" group-title="Sports", FINAL UEL 23 May 2024 02:00 wib
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4468,21 +4456,21 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/503px-UEFA_Europa_Conference_League.svg.png",
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/uefa-conference-league-2021-2022.jpg" group-title="UECL", FINAL UECL 30 May 2024 02:00 wib 🇬🇧
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/uefa-conference-league-2021-2022.jpg" group-title="Sports", FINAL UECL 30 May 2024 02:00 wib 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051ad8db73a944abe9ec83ad88987b:100c985696718d923c4b1289c1cf0d7d
 https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(tntsport1)/manifest_720.mpd
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/uefa-conference-league-2021-2022.jpg" group-title="UECL", FINAL UECL 30 May 2024 02:00 wib 🇬🇧
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/uefa-conference-league-2021-2022.jpg" group-title="Sports", FINAL UECL 30 May 2024 02:00 wib 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/uefa-conference-league-2021-2022.jpg" group-title="UECL", FINAL UECL 30 May 2024 02:00 wib
+#EXTINF:-1 tvg-id="" tvg-logo="https://asset-2.tstatic.net/batam/foto/bank/images/uefa-conference-league-2021-2022.jpg" group-title="Sports", FINAL UECL 30 May 2024 02:00 wib
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
@@ -4492,42 +4480,42 @@ https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 
 #EXTINF:-1 group-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg",
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", FINAL UCL 2 Jun 2024 02:00 wib 🇬🇧
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", FINAL UCL 2 Jun 2024 02:00 wib 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇬🇧
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00051ad8db73a944abe9ec83ad88987b:100c985696718d923c4b1289c1cf0d7d
 https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(tntsport1)/manifest_720.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇲🇾
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇲🇾
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
 
-#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇳🇱
+#EXTINF:-1 tvg-id="Ziggo Sport" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
 https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/_shared_6a89db18ec4202bae4d424e84c1f46a2/NL_000014_019661.mpd
 
-#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇳🇱
+#EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇳🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/_shared_cc010062b17300c4504b6ab5681b5417/NL_000094_019321.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇦🇱
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇦🇱
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4535,20 +4523,20 @@ https://wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_0
 https://fe.tring.al/delta/101/out/u/sportnjeottencryption.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇧🇪
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇧🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
 https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇧🇪
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇧🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b53316f32fc93b51a61ba6fdf0bce6c1:d752d66843a48a6fed64eed8f87adc3e
 https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd
 
 
-#EXTINF:-1 tvg-id="Матч! Футбол 1" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇷🇺
+#EXTINF:-1 tvg-id="Матч! Футбол 1" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4556,7 +4544,7 @@ https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_ce
 #KODIPROP:inputstream.adaptive.license_key=5269ab07e6a6db7585324ae20542f191:dba0dccffba1b26f658ec85a616102e8
 https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 
-#EXTINF:-1 tvg-id="МАТЧ ПРЕМЬЕР" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇷🇺
+#EXTINF:-1 tvg-id="МАТЧ ПРЕМЬЕР" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇷🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4564,58 +4552,58 @@ https://strm.yandex.ru/kal/match_football1_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 https://cors-proxy.elfsight.com/http://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇨🇴
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇨🇴
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rwdtYt_mSoKh8gWxbC9f9w","k":"jXHeSMr94CJGWvR_djmyQQ"},{"kty":"oct","kid":"gldi_vZnRN--8IUsRlGULA","k":"OoZM1ZUt5xFogJ0ctbFw4A"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇰🇿
+#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇰🇿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇺🇸
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇺🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/dash/cenc/TUDNUH_8283/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇮🇹  
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇮🇹  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇮🇹  
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇮🇹  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇮🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇮🇹
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇮🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇮🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8342d78d46c8c202a:8d2e953821d36c942161be09930d2bd4
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u3/u3-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇮🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇮🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834357864bc2ae0a8:ae7bec66e4ac23f3d243fa6e4d767a00
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u4/u4-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇮🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇮🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b278760c5ba026:a9ab51a9e021da177f982de9b42eb0de
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u5/u5-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="UCL", UCL 🇮🇹
+#EXTINF:-1 tvg-id="" tvg-logo="https://wwwimage-us.pplusstatic.com/base/files/seo/ucl_social_1200x627.jpg" group-title="Sports", UCL 🇮🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834ba7888b9f960a4:852ebe5446caa8fad99c440b86ad128c
@@ -4625,33 +4613,33 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-u6/u6-dash-widevine.isml/manife
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/AFC_Champions_League_logo.svg/640px-AFC_Champions_League_logo.svg.png",
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL 🇮🇩
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="Sports", ACL 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL 🇸🇬
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="Sports", ACL 🇸🇬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
 https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL 🇸🇦
+#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="Sports", ACL 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL 🇸🇦
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="Sports", ACL 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL 🇸🇦
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="Sports", ACL 🇸🇦
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="ACL", ACL 🇩🇪
+#EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/Bc14pcY/afcchampionsleague.png" group-title="Sports", ACL 🇩🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
