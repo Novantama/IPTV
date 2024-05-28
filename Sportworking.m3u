@@ -7,7 +7,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-H
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Sportstars 2.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Sportstars-2.png " group-title="SPORTS ",Sportstars 2 
+#EXTINF:-1 tvg-id="Sportstars 2.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Sportstars-2.png "group-title="SPORTS",Sportstars 2 
 https://testfunctionlive.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -19,7 +19,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="Sportstars 3.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png " group-title="SPORTS ",Sportstars 4
+#EXTINF:-1 tvg-id="Sportstars 3.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png "group-title="SPORTS",Sportstars 4
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -31,13 +31,13 @@ https://testfunctionlive.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socce
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="SPOTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/spotv.png " group-title="SPORTS ",SPOTV
+#EXTINF:-1 tvg-id="SPOTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/spotv.png "group-title="SPORTS",SPOTV
 https://testfunctionlive.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="SPOTV2.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/spotv-2.png " group-title="SPORTS ",SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV2.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/spotv-2.png "group-title="SPORTS",SPOTV 2
 https://testfunctionlive.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -58,7 +58,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png " group-title="SPORTS ",TVRI SPORT HD 
+#EXTINF:-1 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png "group-title="SPORTS",TVRI SPORT HD 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_2500000=10004-mp4a_96000_eng=20003.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",AstroSupersport 1
@@ -237,35 +237,35 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg"group-title="Sports",SPORTSTARS 4 (V+)
+#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://hometv.pw/logo/sports/sportstars.jpg"group-title="SPORTS",SPORTSTARS 4 (V+)
 https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg"group-title="Sports",SOCCER CHANNEL (V+)
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg"group-title="SPORTS",SOCCER CHANNEL (V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg"group-title="Sports",SOCCER CHANNEL B (V+)
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg"group-title="SPORTS",SOCCER CHANNEL B (V+)
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AFC_Cup_logo.svg/480px-AFC_Cup_logo.svg.png",
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" "group-title="Sports", AFC CUP 🇮🇩
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" "group-title="SPORTS", AFC CUP 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd 
 
-#EXTINF:-1 tvg-id="SSC 1" tvg-logo=""group-title="Sports", 
+#EXTINF:-1 tvg-id="SSC 1" tvg-logo=""group-title="SPORTS", 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-id="SSC Extra 1" tvg-logo=""group-title="Sports", 
+#EXTINF:-1 tvg-id="SSC Extra 1" tvg-logo=""group-title="SPORTS", 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
@@ -1695,7 +1695,7 @@ https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/WWE/manifest.mpd
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU"group-title="Sports", SSC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU"group-title="SPORTS", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
