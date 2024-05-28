@@ -1695,7 +1695,7 @@ https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/WWE/manifest.mpd
 https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU"group-title="Sports", SSQ 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyKbV8hQVg2MowvHrQqUn36IRM2_tmlxFotQ&usqp=CAU"group-title="Sports", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
