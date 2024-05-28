@@ -1086,20 +1086,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
-
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
-
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/sone/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1131,16 +1121,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
-
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
-
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -1156,11 +1136,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
-
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -1170,21 +1145,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
-
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
-
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
-
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR[INDIHOME]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET[INDIHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
