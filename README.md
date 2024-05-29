@@ -31,8 +31,7 @@ pip install requests tqdm
 1. **Clone the Repository**
     ```sh
     git clone https://github.com/Novantama/IPTV.git
-cd IPTV
-    ```
+cd IPTV```
 
 2. **Prepare Your Playlist File**
     Ensure your playlist file is in the correct format and place it in the desired directory. Update the `input_path` and `output_path` in the script as necessary.
