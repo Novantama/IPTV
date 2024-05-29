@@ -30,8 +30,8 @@ pip install requests tqdm
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/yourusername/iptv-playlist-processor.git
-    cd iptv-playlist-processor
+    git clone https://github.com/Novantama/IPTV.git
+cd IPTV
     ```
 
 2. **Prepare Your Playlist File**
