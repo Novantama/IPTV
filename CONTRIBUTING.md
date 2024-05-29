@@ -51,7 +51,7 @@ Thank you for your interest in contributing to Playlist Sorter Script. We're exc
 
 ## Issues and Discussions
 
-- If you find a bug, open a new issue on the [Issues](https://github.com/your-username/Playlist Sorter Script/issues) page.
+- If you find a bug, open a new issue on the [Issues] (https://github.com/Novantama/IPTV/issues/) page.
 - For discussing new features or enhancements, start a new discussion or join an existing one.
 
 ## Documentation
