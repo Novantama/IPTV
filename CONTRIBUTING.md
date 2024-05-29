@@ -1,6 +1,6 @@
-# Contributing to Playlist Sorter
+# Contributing to Playlist Sorter Script
 
-Thank you for your interest in contributing to Playlist Sorter. We're excited to have you involved. Here are some guidelines to help you get started.
+Thank you for your interest in contributing to Playlist Sorter Script. We're excited to have you involved. Here are some guidelines to help you get started.
 
 ## How to Contribute
 
