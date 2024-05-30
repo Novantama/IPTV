@@ -1618,7 +1618,7 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jplaygame.com/wp-content/uploads/2020/07/unnamed.jpg",M LIVE SPL 01 
+#EXTINF:-1 group-title="World TV" tvg-id="  tvg-logo="https://jplaygame.com/wp-content/uploads/2020/07/unnamed.jpg",M LIVE SPL 01 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
@@ -3210,7 +3210,7 @@ https://www.googleapis.com/drive/v3/files/1z6dnOhEEzQ6S6plA2xzyNj_9CJaSE2lz?alt=
 #EXTINF:-1 group-title="VOD Indo",The Last Prank
 https://www.googleapis.com/drive/v3/files/16Gfj5R3SF66lLcP9Qlq2hhuHu3yqwvdX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-id="Thrill - [Channel 19].id;Thrill - [Channel 19].id" tvg-logo="https://i.ibb.co/zNwFf6z/thrill.png", Thrill
+#EXTINF:-1 tvg-id="Thrill - [Channel 19].id;Thrill - [Channel 19].id" tvg-logo="https://i.ibb.co/zNwFf6z/thrill.png",group-title="Movies",Thrill
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3436,9 +3436,6 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
-
-#EXTINF:-1, group-titleSports tvg-logohttps//dldropboxusercontentcom/s/mbz253pyyvycavw/impactpng IMPACT  Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 group-title="Vision+" tvg-id="ie.id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",ie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
