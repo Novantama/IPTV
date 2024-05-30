@@ -2125,8 +2125,6 @@ https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/8X3Cwxy/premiere.jpg" group-title="Premier League",PREMIER LEAGUE-NOW SPORT 1
-http://iptvkita.my.id:25461/Toni/0895810355575/9149
 
 #EXTINF:-1 tvg-id="Premier Sports 1.ie" group-title="Sports" tvg-logo="https://i.ibb.co/nLNtj7C/premiersports1.png", PREMIER SPORTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2407,9 +2405,6 @@ https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Li
 #KODIPROP:inputstream.adaptive.license_key=00070f1575f10d7ce03963ca758ba831:a10732c2258e99c55f50c4e942229bd9
 https://linear407-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skyscifi)/manifest_720.mpd
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Premier League"​,SKY SPORTS 2
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60799
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/HNW9Fmp/snworld.png" group-title="Sports", SN World 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
@@ -2521,9 +2516,6 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nbuimwqqvhc4brm/images%20%282%29.jpeg" group-title="Sports", STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Premier League"​,START SPORTS SELECT 1
-http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/55270
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://dl.dropbox.com/s/pd5a9ic6kdnjznu/SUKAN_RTM.jpg",SUKAN RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
