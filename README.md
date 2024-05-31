@@ -26,7 +26,7 @@ You can install the required libraries using pip:
 pip install requests tqdm
 ```
 
-Tentu, berikut adalah versi yang telah diperbaiki dari README Anda:
+
 
 ---
 
