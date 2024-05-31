@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV 720p
 https://cdn.002radio.com:3909/live/radio002live.m3u8
@@ -17454,7 +17455,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #EXTINF:-1 tvg-id="HGTV" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment",HGTV 
 https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 
-#EXTINF:-1 group-title="Entertaiment" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.postimg.cc/YCT8qhTy/hgtv.png", HGTV
 https://raw.githubusercontent.com/eepunx/cancan/main/hgtv
 
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.ibb.co/hCwSVg8/hgtv.png" group-title="Lifestyle", HGTV 
