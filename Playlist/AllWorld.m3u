@@ -1,5 +1,5 @@
 
-#######Update PL update Astro######
+#######Update SPOTV######
 
 #EXTM3U
 #EXTINF:-1 tvg-id="002RadioTV.do" tvg-logo="https://i.imgur.com/7oNe8xj.png" group-title="General",002 Radio TV 720p
@@ -17258,8 +17258,6 @@ https://www.googleapis.com/drive/v3/files/1G94bJbLg6zEMGTo4EpGSHA5h4Im8Pie7?alt=
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/twee4scc14he4cc/images%20%281%29.jpeg" group-title="Sports", Fight
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="Local Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
-https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 group-title="Vision+" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -18104,8 +18102,6 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluenatgeowildhdro/Manifest.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ogtqa4dhapw24gv/nbatv.png" group-title="Sports", NBA
 http://tvkuonline.my.id:25461/riyad/riyad/447
 
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="Local Sports",NBA TV Indi
-https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 tvg-id="The Golf Channel HDTV" tvg-name="NBC GOLF" tvg-logo="https://i.ibb.co/Rykhd2s/nbcgolf.png" group-title="Sports" ,  NBC GOLF CHANNEL 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -18654,10 +18650,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="Sports",SOCCER CHANNEL B V+
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="" group-title="Sports" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPOTV 
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="" group-title="Local Sports" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPOTV 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="SPOTV 2" group-title="Sports" tvg-logo="https://i.ibb.co/ZM8qx15/spotv2.png",SPOTV 2 
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="SPOTV 2" group-title="Local Sports" tvg-logo="https://i.ibb.co/ZM8qx15/spotv2.png",SPOTV 2 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
 
 #EXTINF:-1  tvg-id="Sport 1 plus DE.de" tvg-logo="https://i.ibb.co/rdfyH83/sport1plushd.png" group-title="Sports", SPORT1+ HD 
@@ -18692,20 +18688,14 @@ https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV 2
+#EXTINF:-1 group-title="Local Sports" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV 2
 https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="Vision+" tvg-id="spotv2.kr" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",SPOTV 2
+#EXTINF:-1 group-title="Local Sports" tvg-id="spotv2.kr" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png", SPOTV 2 backup
-http://tvkuonline.my.id:25461/riyad/riyad/423
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png", SPOTV backup
-http://tvkuonline.my.id:25461/riyad/riyad/422
 
 #EXTINF:-1 group-title="Sports" tvg-id="SSC 2" tvg-logo="https://i.ibb.co/CWX5CS0/ssc2.png", SSC 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19516,8 +19506,6 @@ https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" group-title="Local Sports",WWE 
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1698
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://i.ibb.co/rMqyf0w/wwe.png" group-title="Sports", WWE NETWORK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
