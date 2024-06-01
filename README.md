@@ -1,104 +1,96 @@
-# IPTV Playlist Processor
+# Playlist Processing Tool
 
-This repository contains a Python script to process and clean up IPTV playlists. The script performs the following tasks:
-1. Parses the playlist and groups lines belonging to the same channel entry.
-2. Removes duplicate channel entries.
-3. Checks if the URLs are working.
-4. Sorts the playlist by channel names and URLs.
-5. Formats the `group-title` attribute to be properly capitalized and removes non-alphabet characters.
+This repository contains a Python script designed to process M3U playlists. It includes features for parsing, formatting, removing duplicates, sorting, checking URLs for availability, and determining the video resolution of each channel.
 
 ## Features
 
-- **Duplicate Removal**: Ensures that only unique channel entries are retained.
-- **URL Validation**: Checks if the channel URLs are reachable and valid.
-- **Sorting**: Sorts the playlist entries by channel name and URL.
-- **Title Formatting**: Formats `group-title` attributes to be properly capitalized and cleans up non-alphabet characters.
-- **Parallel URL Checking**: Uses parallel processing to speed up URL validation.
+- **Parsing Playlist**: Reads and parses M3U playlist files.
+- **Formatting**: Formats group titles and channel names based on a predefined translation dictionary and character rules.
+- **Removing Duplicates**: Identifies and removes duplicate entries based on URLs.
+- **Sorting Entries**: Sorts the playlist entries alphabetically by channel name and URL.
+- **Checking URLs**: Verifies if the URLs in the playlist are working.
+- **Determining Resolution**: Checks the video resolution (SD, HD, FHD) of each channel and appends this information to the channel name.
+- **Multithreading**: Uses multithreading to speed up the checking of URLs and resolutions.
 
-## Requirements
+## Installation
 
-- Python 3.x
-- `requests` library
-- `tqdm` library
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/yourusername/playlist-processing-tool.git
+    cd playlist-processing-tool
+    ```
 
-You can install the required libraries using pip:
-```sh
-pip install requests tqdm
-```
-
-
-
----
+2. **Install dependencies**:
+    The script requires `requests`, `tqdm`, and `concurrent.futures` (included in Python 3.2+). You can install `requests` and `tqdm` using pip:
+    ```sh
+    pip install requests tqdm
+    ```
 
 ## Usage
 
-1. **Clone the Repository**
+1. **Prepare your playlist file**:
+    Ensure your M3U playlist file is ready and note its path.
+
+2. **Run the script**:
+    Edit the `input_path` and `output_path` variables in the `main()` function to point to your input and output files. Then, run the script:
     ```sh
-    git clone https://github.com/Novantama/IPTV.git
-    cd IPTV
+    python Dupl_Sort_Rename_Check_Resolution.py
     ```
 
-2. **Prepare Your Playlist File**
-    Ensure your playlist file is in the correct format and place it in the desired directory. Update the `input_path` and `output_path` variables in the script as necessary.
+3. **Output**:
+    The script processes the playlist and writes the sorted, formatted, and verified playlist to the specified output path.
 
-3. **Run the Script**
-    ```sh
-    python IPTV_Playlist_Processor.py
-    ```
+## Detailed Description of Functions
 
-## Script Overview
+- **is_channel_working(url, timeout=6)**:
+  Checks if a channel URL is working by sending a HEAD request.
 
-The script, `IPTV_Playlist_Processor.py`, contains the following functions:
+- **get_video_resolution(url, timeout=20)**:
+  Determines the video resolution by analyzing the content of the response from the URL.
 
-- **is_channel_working(url, timeout=6)**: Checks if a given URL is reachable within the specified timeout.
-- **format_group_title(line)**: Formats the `group-title` attribute to be capitalized correctly and removes non-alphabet characters.
-- **parse_playlist(file_path)**: Parses the playlist file and groups lines into channel entries.
-- **remove_duplicates(entries)**: Removes duplicate channel entries based on the URL.
-- **sort_entries(entries)**: Sorts the entries by channel name and URL.
-- **check_url(url)**: Checks if a single URL is valid.
-- **check_and_filter_entries(entries)**: Checks all URLs in parallel and filters out the invalid ones.
-- **write_playlist(file_path, entries)**: Writes the cleaned and sorted playlist back to a file.
-- **main()**: Main function to orchestrate the script execution.
+- **format_group_title(line)**:
+  Formats the group title using a predefined translation dictionary.
 
-## Example
+- **format_channel_name(line)**:
+  Formats the channel name by removing unwanted characters.
 
-Make sure to update the file paths in the `main()` function:
-```python
-def main():
-    input_path = r'C:\\Users\\Admin\\Downloads\\Playlist Novan.txt'
-    output_path = r'C:\\Users\\Admin\\Downloads\\sorted_playlist.txt'
+- **parse_playlist(file_path)**:
+  Parses the M3U playlist file into individual entries.
 
-    print("Parsing playlist...")
-    entries = parse_playlist(input_path)
-    
-    print("Removing duplicates...")
-    unique_entries = remove_duplicates(entries)
-    
-    print("Checking URLs...")
-    valid_entries = check_and_filter_entries(unique_entries)
-    
-    print("Sorting entries...")
-    sorted_entries = sort_entries(valid_entries)
-    
-    print("Writing sorted playlist...")
-    write_playlist(output_path, sorted_entries)
-    print("Process completed.")
+- **remove_duplicates(entries)**:
+  Removes duplicate entries based on URLs.
 
-if __name__ == '__main__':
-    main()
-```
-## License
+- **sort_entries(entries)**:
+  Sorts entries alphabetically by channel name and URL.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **check_url(url)**:
+  Checks if a URL is working.
+
+- **check_resolution(url)**:
+  Checks the resolution of a video URL.
+
+- **check_and_filter_entries(entries)**:
+  Checks URLs and their resolutions, filtering out non-working URLs and appending resolution information.
+
+- **write_playlist(file_path, entries)**:
+  Writes the processed entries back to a new M3U playlist file.
+
+- **main()**:
+  The main function that orchestrates the processing of the playlist.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+Contributions are welcome! Please fork the repository and submit pull requests for any improvements or bug fixes.
 
 ## Acknowledgments
 
-- Inspiration, code snippets, etc.
+- Thanks to the developers of `requests` and `tqdm` for their amazing libraries.
+- Special thanks to the open-source community for their valuable contributions and feedback.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-This README should provide a comprehensive guide to using and understanding the script. Adjust paths and filenames as necessary for your specific use case.
+For any questions or issues, please open an issue on GitHub or contact the repository owner.
