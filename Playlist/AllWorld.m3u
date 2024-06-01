@@ -1,6 +1,6 @@
 #EXTM3U billed-msg="Novan TV PLAYLIST GRATIS 
 
-##########Update Premier Sports#######
+##########Update Champions League#######
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", tvg-id="Premier Sports 1" group-title="Premier League", Premier Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -16416,27 +16416,27 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.ibb.co/sggNDR7/a1.png" group-title="Sports;Premier League", ARENA SPORT 1 
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://i.ibb.co/sggNDR7/a1.png" group-title="Sports;Premier League;Champions League", ARENA SPORT 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
 
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.ibb.co/18LnFNg/a3.png" group-title="Sports;Premier League", ARENA SPORT 3 
+#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="https://i.ibb.co/18LnFNg/a3.png" group-title="Sports;Premier League;Champions League", ARENA SPORT 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
 
-#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.ibb.co/MfCshjJ/a5.png" group-title="Sports;Premier League", ARENA SPORT 5 
+#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://i.ibb.co/MfCshjJ/a5.png" group-title="Sports;Premier League;Champions League", ARENA SPORT 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 
-#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co/HKHVbhz/a2p.png" group-title="Sports;Premier League", ARENA SPORT PREMIUM 2 
+#EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://i.ibb.co/HKHVbhz/a2p.png" group-title="Sports;Premier League;Champions League", ARENA SPORT PREMIUM 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 
-#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co/dcN9dPL/a3p.png" group-title="Sports;Premier League", ARENA SPORT PREMIUM 3 
+#EXTINF:-1 tvg-id="Arena Premium 3.ba" tvg-logo="https://i.ibb.co/dcN9dPL/a3p.png" group-title="Sports;Premier League;Champions League", ARENA SPORT PREMIUM 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
@@ -16509,7 +16509,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title=" Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="Sports;Premier League",Astro SuperSport 1
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="Sports;Premier League;",Astro SuperSport 1
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 
 #EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="Sports;Premier League",Astro SuperSport 2
@@ -16586,13 +16586,13 @@ https://liveaneviadev.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="Sports" , BEIN SPORTS 1  
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="Sports;Champions League;Premier League" , BEIN SPORTS 1  
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="Sports" , BEIN SPORTS 3  
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="Sports;Champions League;Premier League" , BEIN SPORTS 3  
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -16672,15 +16672,15 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9pQ25n1/canalpl2.png" group-title="Sports", CANAL+ SPORT 2 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9pQ25n1/canalpl2.png" group-title="Sports;Champions League;Premier League", CANAL+ SPORT 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn-nvm-chicago.lolokoko.tv/canalplussport2.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1b0vjjH/canalpl3.png" group-title="Sports", CANAL+ SPORT 3 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/1b0vjjH/canalpl3.png" group-title="Sports;Champions League;Premier League", CANAL+ SPORT 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn-nvm-chicago.lolokoko.tv/canalplussport3.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N7HdSK7/canalpl4.png" group-title="Sports", CANAL+ SPORT 4 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N7HdSK7/canalpl4.png" group-title="Sports;Champions League;Premier League", CANAL+ SPORT 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn-nvm-chicago.lolokoko.tv/canalplussport4.stream/index.m3u8
 
@@ -17034,24 +17034,24 @@ https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #EXTINF:-1 group-title="VOD Indo",Cross the Line
 https://www.googleapis.com/drive/v3/files/1URcwwXiKODm8mlALd8vBywUEu_2dNhIA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1  group-title="Sports",DAZN 1
+#EXTINF:-1  group-title="Sports;Champions League;Premier League",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
-#EXTINF:-1  group-title="Sports",DAZN 2
+#EXTINF:-1  group-title="Sports;Champions League;Premier League",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png" group-title="Sports" , DAZN 3  
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://i.ibb.co/jLx33bM/dazn3.png" group-title="Sports;Champions League;Premier League" , DAZN 3  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png" group-title="Sports" , DAZN 4  
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://i.ibb.co/KF0chkh/dazn4.png" group-title="Sports;Champions League;Premier League" , DAZN 4  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
@@ -17161,37 +17161,37 @@ https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png" group-title="Sports", ESPN 2 
+#EXTINF:-1 tvg-id="ESPN 2.co" tvg-logo="https://i.ibb.co/K0XRbdr/espn2cl.png" group-title="Sports;Premier League;Champions League", ESPN 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LEO70iL6S1ix-XTvyncu1A","k":"V3XN0YH9Xg6R88rLsMqO1A"},{"kty":"oct","kid":"nUDOLGNFTvyCbyblE38Txg","k":"iusccUFqdmhADlyZAFqLPg"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QFENP2/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="ESPN 3.co" tvg-logo="https://i.ibb.co/LNQtJjG/espn3cl.png" group-title="Sports", ESPN 3 
+#EXTINF:-1 tvg-id="ESPN 3.co" tvg-logo="https://i.ibb.co/LNQtJjG/espn3cl.png" group-title="Sports;Premier League;Champions League", ESPN 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"R-4TwhHiTa21iZC20JwTUg","k":"qw7ETmsI2f0gXpKmaMdiNw"},{"kty":"oct","kid":"ksS3olwFTt29Y-Nx6iCXpw","k":"4-IqPjgoLeAuOgC39zzWvA"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNTTV/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://i.ibb.co/QkzBxW3/espn4.png" group-title="Sports", ESPN 4 
+#EXTINF:-1 tvg-id="ESPN 4.co" tvg-logo="https://i.ibb.co/QkzBxW3/espn4.png" group-title="Sports;Premier League;Champions League", ESPN 4 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Kvr0mIrYRLeiYrjfW3BeMw","k":"BxcsilCNo766bwXJBh249Q"},{"kty":"oct","kid":"609HIwWzQr6buX7ZIou6pg","k":"ZXy64rS2DGpK7mlJnIuIcQ"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QESPNETV/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://i.ibb.co/4f70pMW/espn5.png" group-title="Sports", ESPN 5 
+#EXTINF:-1 tvg-id="ESPN 5.co" tvg-logo="https://i.ibb.co/4f70pMW/espn5.png" group-title="Sports;Premier League;Champions League", ESPN 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"c6MypyKjLWjbn2PyHLBzwQ","k":"HNFATP5qA3U1PxASfrHhEw"},{"kty":"oct","kid":"RajYaqD_n3PFqQk4SNQLHg","k":"fG2-cmP3TTnUm3j1OCrSbw"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTUTV/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://i.ibb.co/NpXGMH7/espn6.png" group-title="Sports", ESPN 6 
+#EXTINF:-1 tvg-id="ESPN 6.co" tvg-logo="https://i.ibb.co/NpXGMH7/espn6.png" group-title="Sports;Premier League;Champions League", ESPN 6 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"PprYdgvURfGRnYLq9kfB_g","k":"8MGO-YMkXMHtLsUkHdaNig"},{"kty":"oct","kid":"PnoSPvDdT-aYZGSRh2dYTw","k":"DmWJOEQIs9zZkXc8QEf30w"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTTTV/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="ESPN 7.co" tvg-logo="https://i.ibb.co/2MJNnh2/espn7.png" group-title="Sports", ESPN 7 
+#EXTINF:-1 tvg-id="ESPN 7.co" tvg-logo="https://i.ibb.co/2MJNnh2/espn7.png" group-title="Sports;Premier League;Champions League", ESPN 7 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IqiiAReaSMGecLzO-1UuTA","k":"gdwZo50wB3QJo18fDY60gw"},{"kty":"oct","kid":"HyyT3Ym7T1W9Xa0EHF1rgw","k":"rRJ_kUsRm5Fik6UARSPFwg"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QFOSTDTV/dash/manifest.mpd
 
-#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="Sports", ESPN HD 
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="https://i.ibb.co/GvptYtb/espn1cl.png" group-title="Sports;Premier League;Champions League", ESPN HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rwdtYt_mSoKh8gWxbC9f9w","k":"jXHeSMr94CJGWvR_djmyQQ"},{"kty":"oct","kid":"gldi_vZnRN--8IUsRlGULA","k":"OoZM1ZUt5xFogJ0ctbFw4A"}]}
 https://1279247418.rsc.cdn77.org/bpk-tv/QFENPU/dash/manifest.mpd
@@ -18719,8 +18719,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
 
-#EXTINF:-1 tvg-name="SPORTSTARS 4" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Sports",SPORTSTARS 4 V+
-https://liveaneviadev.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:-1 group-title="Local Sports" tvg-id="spotv.kr" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
