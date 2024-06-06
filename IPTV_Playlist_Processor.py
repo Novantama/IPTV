@@ -1,139 +1,57 @@
 import requests
-from tqdm import tqdm
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm
+import subprocess
 
-def is_channel_working(url, timeout=6):
+def is_channel_working(url, timeout=20):
     try:
         response = requests.head(url, timeout=timeout)
         return response.status_code == 200
     except requests.RequestException:
         return False
 
-def get_video_resolution(url, timeout=20):
+def get_video_resolution(url, timeout=60):
     try:
-        response = requests.get(url, stream=True, timeout=timeout)
-        content_type = response.headers.get('content-type', '')
-        if 'video' in content_type:
-            for line in response.iter_lines():
-                if line:
-                    line = line.decode('utf-8')
-                    resolution_match = re.search(r'(\d{3,4})[pi]', line)
-                    if resolution_match:
-                        resolution = int(resolution_match.group(1))
-                        if resolution < 720:
-                            return "SD"
-                        elif resolution < 1080:
-                            return "HD"
-                        else:
-                            return "FHD"
-        return "Unknown"
-    except requests.RequestException:
-        return "Unknown"
+        result = subprocess.run(
+            ['ffmpeg', '-i', url, '-hide_banner'],
+            stderr=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            timeout=timeout
+        )
+        output = result.stderr.decode('utf-8')
+        match = re.search(r'Stream.*Video.* (\d{2,5})x(\d{2,5})', output)
+        if match:
+            width, height = map(int, match.groups())
+            if width >= 1920 or height >= 1080:
+                return "FHD"
+            elif width >= 1280 or height >= 720:
+                return "HD"
+            else:
+                return "SD"
+    except subprocess.TimeoutExpired:
+        return None
+    except Exception as e:
+        return None
+
+def clean_name(name):
+    allowed_chars = re.compile(r'[^a-zA-Z0-9\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af\u1100-\u11ff\u3130-\u318f\u0E00-\u0E7F\u0400-\u04FF ;]+')
+    return allowed_chars.sub('', name).strip()
 
 def format_group_title(line):
-    translation_dict = {
-        "pengetahuan": "Knowledge",
-        "olahraga": "Sports",
-        "musik": "Music",
-        "korean": "Korea",
-        "animasi": "Animation",
-        "berita": "News",
-        "bisnis": "Business",
-        "anak": "Kids",
-        "gaya hidup": "Lifestyle",
-        "keagamaan": "Religion",
-        "belanja": "Shop",
-        "film": "Movies",
-        "islami": "Religion",
-        "keluarga": "Family",
-        "hiburan": "Entertainment",
-        "lokal": "Regional",
-        "daerah": "Regional",
-        "dens tv": "General",
-        "hbo mgtv": "HBO Group",
-        "malaysia": "Malaysia",
-        "music": "Music",
-        "olahraga lokal": "Local Sports",
-        "singapura": "Singapore",
-        "nasional mgtvpng": "Nasional MGTV",
-        "afc u23": "AFC U23",
-        "brunei": "Brunei",
-        "channel bri liga 1": "BRI Liga 1",
-        "channel entertaiment lifestyle": "Lifestyle",
-        "channel hbo group": "HBO Group",
-        "channel korea": "Korea",
-        "channel movies": "Movies",
-        "channel sport": "Sport",
-        "channel sport indo": "Local Sports",
-        "channel sports 2": "Sports",
-        "channel taiwan": "Taiwan",
-        "channel vision+": "Vision+",
-        "christian channels": "Christian",
-        "entertainment": "Entertainment",
-        "entertainment lifestyle": "Lifestyle",
-        "f1": "F1",
-        "general": "General",
-        "indihome": "Indihome",
-        "indonesia channels": "Regional",
-        "internet radio": "Internet Radio",
-        "kids": "Kids",
-        "knowledge documentary": "Knowledge",
-        "korean channels": "Korea",
-        "kualifikasi world cup 2026": "World Cup 2026 Qualifiers",
-        "lifestyle": "Lifestyle",
-        "liga champion": "Champions League",
-        "liga eropa": "Europa League",
-        "liga inggris": "Premier League",
-        "local channels": "Regional",
-        "malaysia": "Malaysia",
-        "movies": "Movies",
-        "music": "Music",
-        "nasional": "Regional",
-        "news": "News",
-        "premium movies": "Premium Movies",
-        "religi": "Religion",
-        "religion": "Religion",
-        "singapore": "Singapore",
-        "sony sport": "Sports",
-        "sport asean": "Sports",
-        "sports": "Sports",
-        "sports2": "Sports",
-        "ucl": "UCL",
-        "vod indo": "VOD Indo",
-        "world tv": "World TV"
-    }
-
-    match = re.search(r'group-title="([^"]*)"', line, re.IGNORECASE)
+    match = re.search(r'group-title="([^"]+)"', line)
     if match:
         group_title = match.group(1)
-        # Hapus spasi di depan
-        group_title = group_title.strip()
-        # Ambil kata depan jika dipisahkan dengan koma atau titik koma
-        if ',' in group_title or ';' in group_title:
-            group_title = re.split(r'[;,]', group_title)[0].strip()
-        cleaned_group_title = re.sub(r'[^A-Za-z0-9\s\+\-\*\/]', '', group_title)
-        lower_case_title = cleaned_group_title.lower()
-        translated_title = translation_dict.get(lower_case_title, cleaned_group_title).title()
-        line = line.replace(group_title, translated_title)
+        group_title = re.sub(r'\s+', ' ', group_title)  # Reduce multiple spaces to single space
+        group_title = clean_name(group_title)
+        line = line.replace(match.group(1), group_title)
     return line
 
 def format_channel_name(line):
     match = re.search(r'#EXTINF[^,]*,(.*)', line)
     if match:
-        channel_name = match.group(1)
-        # Rentang Unicode untuk karakter Jepang, Cina, Korea, Thailand, dan Vietnam
-        allowed_unicode_ranges = (
-            r'\u4E00-\u9FFF'  # CJK Unified Ideographs (Cina, Jepang, Korea)
-            r'\u3040-\u309F'  # Hiragana (Jepang)
-            r'\u30A0-\u30FF'  # Katakana (Jepang)
-            r'\uAC00-\uD7AF'  # Hangul Syllables (Korea)
-            r'\u0E00-\u0E7F'  # Thai (Thailand)
-            r'\u1A00-\u1AFF'  # Tai Viet (Vietnam)
-        )
-        # Ekspresi reguler yang menghapus semua karakter kecuali yang diizinkan
-        formatted_name = re.sub(fr'[^\w\s\+\-\*\/{allowed_unicode_ranges}]', '', channel_name)
-        line = line.replace(channel_name, formatted_name)
+        channel_name = clean_name(match.group(1))
+        line = line.replace(match.group(1), channel_name)
     return line
 
 def parse_playlist(file_path):
@@ -149,11 +67,8 @@ def parse_playlist(file_path):
             if entry:
                 entries.append(entry)
             entry = [line]
-        elif line.strip() and not line.startswith('#'):
+        elif line.strip():
             entry.append(line)
-        elif line.startswith('#KODIPROP:inputstream.adaptive.license_type') or line.startswith('#KODIPROP:inputstream.adaptive.license_key') or line.startswith('#EXTVLCOPT:'):
-            if entry:
-                entry.append(line)
 
     if entry:
         entries.append(entry)
@@ -175,7 +90,6 @@ def sort_entries(entries):
         channel_name = entry[0].split(',')[-1].strip()
         url = entry[-1].strip()
         return (channel_name, url)
-
     return sorted(entries, key=sort_key)
 
 def check_url(url):
@@ -189,26 +103,26 @@ def check_and_filter_entries(entries):
     valid_urls = set()
     resolution_dict = {}
 
-    with ThreadPoolExecutor() as executor:
+    with ThreadPoolExecutor(max_workers=1000) as executor:
         results = list(tqdm(executor.map(check_url, urls), total=len(urls), desc="Checking Channels"))
 
     valid_entries = [entry for entry, (url, is_valid) in zip(entries, results) if is_valid]
     valid_urls = [entry[-1].strip() for entry in valid_entries]
 
-    with ThreadPoolExecutor(max_workers=1000) as executor:
+    with ThreadPoolExecutor(max_workers=40) as executor:
         future_to_url = {executor.submit(check_resolution, url): url for url in valid_urls}
         for future in tqdm(as_completed(future_to_url), total=len(future_to_url), desc="Checking Resolutions"):
             url = future_to_url[future]
             try:
                 _, resolution = future.result()
-                if resolution != "Unknown":
+                if resolution:
                     resolution_dict[url] = resolution
             except Exception:
-                resolution_dict[url] = "Unknown"
+                resolution_dict[url] = None
 
     for entry in valid_entries:
         url = entry[-1].strip()
-        if url in resolution_dict and resolution_dict[url] != "Unknown":
+        if url in resolution_dict and resolution_dict[url]:
             resolution = resolution_dict[url]
             channel_name_match = re.search(r'#EXTINF[^,]*,(.*)', entry[0])
             if channel_name_match:
@@ -224,24 +138,24 @@ def write_playlist(file_path, entries):
         for entry in entries:
             for line in entry:
                 file.write(line)
-            file.write('\n')
+            file.write('\n')  # Ensure there is a single newline after each entry
 
 def main():
-    input_path = r'C:\\Users\\Admin\\Downloads\\Playlist Novan.txt'
-    output_path = r'C:\\Users\\Admin\\Downloads\\sorted_playlist.txt'
+    input_path = r'C:\\Users\\Admin\\Downloads\\IPTV\\Input Playlist.txt'
+    output_path = r'C:\\Users\\Admin\\Downloads\\IPTV\\Output Playlist.txt'
 
     print("Parsing playlist...")
     entries = parse_playlist(input_path)
-    
+
     print("Removing duplicates...")
     unique_entries = remove_duplicates(entries)
-    
+
     print("Sorting entries...")
     sorted_entries = sort_entries(unique_entries)
-    
+
     print("Checking URLs...")
     valid_entries = check_and_filter_entries(sorted_entries)
-    
+
     print("Writing sorted playlist...")
     write_playlist(output_path, valid_entries)
     print("Process completed.")
