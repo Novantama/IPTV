@@ -204,7 +204,7 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="8NTV.mx" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General",8NTV 1080p (HD)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nkHFVKP/8tv.png" group-title="World Tv",8TV (SD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/nkHFVKP/8tv.png" group-title="World TV",8TV (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live08.mpd
@@ -534,7 +534,7 @@ http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="Education",ALTV 1080p (FHD)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="AmarinTV HD.th" tvg-logo="https://i.ibb.co/TL1wxNY/amarintv.png",AMARIN TV 5 (FHD)
+#EXTINF:-1 group-title="World TV" tvg-id="AmarinTV HD.th" tvg-logo="https://i.ibb.co/TL1wxNY/amarintv.png",AMARIN TV 5 (FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
@@ -1824,7 +1824,7 @@ http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBSTV.ug" tvg-logo="https://i.imgur.com/Hub1AXv.png" group-title="General",BBS TV 180p (SD)
 https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/BBSTV/5-hls/live-media.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="CH7 HD.th" tvg-logo="https://i.ibb.co/pPLW3KC/ch7.png",BBTV CHANNEL 7
+#EXTINF:-1 group-title="World TV" tvg-id="CH7 HD.th" tvg-logo="https://i.ibb.co/pPLW3KC/ch7.png",BBTV CHANNEL 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 
@@ -2630,7 +2630,7 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="News",CGTN Русский 576p (SD)
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="CH5 HD.th" tvg-logo="https://i.ibb.co/zJ27CHf/ch5th.png",CHANNEL 5
+#EXTINF:-1 group-title="World TV" tvg-id="CH5 HD.th" tvg-logo="https://i.ibb.co/zJ27CHf/ch5th.png",CHANNEL 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
@@ -3460,7 +3460,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #EXTINF:-1 tvg-id="ChannelS.bd" tvg-logo="https://i.imgur.com/IDjoXfu.png" group-title="Undefined",Channel S 1080p (FHD)
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="Suria HD"  tvg-logo="https://i.ibb.co/KLfmfq7/msuria.png",Channel Suria (SD)
+#EXTINF:-1 group-title="World TV" tvg-id="Suria HD"  tvg-logo="https://i.ibb.co/KLfmfq7/msuria.png",Channel Suria (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
@@ -3470,7 +3470,7 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#EXTINF:-1 group-title="World Tv" tvg-id="Vasantham HD" tvg-logo="https://i.ibb.co/YR4kxxX/mvasantham.png",Channel Vasantham (SD)
+#EXTINF:-1 group-title="World TV" tvg-id="Vasantham HD" tvg-logo="https://i.ibb.co/YR4kxxX/mvasantham.png",Channel Vasantham (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
@@ -5171,7 +5171,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network 1080p (FHD)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="Sports LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports (SD)
+#EXTINF:-1 group-title="Local Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports (SD)
 https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 group-title="Vision" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",Fight Sports (SD)
@@ -7886,17 +7886,17 @@ https://webstreaming.viewmedia.tv/web_044/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofLovelandTV.us" tvg-logo="https://i.imgur.com/K9eCdXD.png" group-title="General",Loveland TV Loveland CO 1080p (SD)
 https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="" tvg-logo="https://i.ibb.co/9GmV2fF/mlive2.png",M LIVE 2 (SD)
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.ibb.co/9GmV2fF/mlive2.png",M LIVE 2 (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="World Tv" tvg-id="  tvg-logo="https://jplaygame.com/wp-content/uploads/2020/07/unnamed.jpg",M LIVE SPL 01 (SD)
+#EXTINF:-1 group-title="World TV" tvg-id="  tvg-logo="https://jplaygame.com/wp-content/uploads/2020/07/unnamed.jpg",M LIVE SPL 01 (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
 https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
-#EXTINF:-1 group-title="World Tv" tvg-id="" tvg-logo="https://i.ibb.co/vHM6GF8/mwspl02.png",M LIVE SPL 02 (SD)
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.ibb.co/vHM6GF8/mwspl02.png",M LIVE SPL 02 (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
@@ -8920,7 +8920,7 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluenatgeowildhdro/Manifest.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ogtqa4dhapw24gv/nbatv.png" group-title="Sports",NBA
 http://tvkuonline.my.id:25461/riyad/riyad/447
 
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="Sports LOKAL",NBA TV Indi
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="Local Sports",NBA TV Indi
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 tvg-id="WBALDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/WBAL_Horizontal_Logo_2013.png" group-title="Undefined",NBC 11 Baltimore MD WBAL 720p (HD)
@@ -9018,7 +9018,7 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="Undefined",NBT 11 Central 720p (FHD)
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
 
-#EXTINF:-1 group-title="World Tv" tvg-id="NBT 2 (FHD) HD.th" tvg-logo="https://i.ibb.co/FgCJ1F7/nbt2th.png",NBT 2 (FHD)
+#EXTINF:-1 group-title="World TV" tvg-id="NBT 2 (FHD) HD.th" tvg-logo="https://i.ibb.co/FgCJ1F7/nbt2th.png",NBT 2 (FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
@@ -9196,17 +9196,17 @@ http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock (SD)
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bRvCWnQ/npo1.png" group-title="World Tv",NPO 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bRvCWnQ/npo1.png" group-title="World TV",NPO 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KzS6nZt/npo2.png" group-title="World Tv",NPO 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KzS6nZt/npo2.png" group-title="World TV",NPO 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
 https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/thSXvdJ/npo3.png" group-title="World Tv",NPO 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/thSXvdJ/npo3.png" group-title="World TV",NPO 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
 https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd
@@ -9993,10 +9993,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",PARAMOUNT NETWORK (HD)
 http://170.254.18.106/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/89bz1kC/rtmparlimen.png" group-title="World Tv",PARLIMEN NEGARA (SD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/89bz1kC/rtmparlimen.png" group-title="World TV",PARLIMEN NEGARA (SD)
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/89bz1kC/rtmparlimen.png" group-title="World Tv",PARLIMEN RAKYAT (SD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/89bz1kC/rtmparlimen.png" group-title="World TV",PARLIMEN RAKYAT (SD)
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
 #EXTINF:-1 tvg-id="WKPCDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png" group-title="Undefined",PBS KET KY 480p (SD)
@@ -10064,12 +10064,12 @@ https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Music",POP World TV 720p (HD)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png",PPTV 36 (FHD)
+#EXTINF:-1 group-title="World TV" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png",PPTV 36 (FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0dbd58616d7355b7a1a7c89df6a60199":"b755de82e54d2aa45ce8e39b80f45ed5","66f03e62d21d5a6397841fc2de1391eb":"75502c6cf014a32a18c9db45ca13a6c3","3ba59a2a76105666b260332e35e483f0":"6dca3af3176e313b6798f81120edd77d"}
 https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
 
-#EXTINF:-1 group-title="World Tv" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png",PPTV 36 (FHD)
+#EXTINF:-1 group-title="World TV" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/fDkdzks/pptv36.png",PPTV 36 (FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
@@ -12004,7 +12004,7 @@ https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2l
 #EXTINF:-1 tvg-id="RTL1025RomeoJuliet.it" tvg-logo="https://i.imgur.com/MKWjSef.png" group-title="Undefined",RTL 1025 RomeoJuliet 1080p (SD)
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xh5cSfZ/rtl4.png" group-title="World Tv",RTL 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/xh5cSfZ/rtl4.png" group-title="World TV",RTL 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8adf9e686f6b4c35a65c273c6ba5f50b:1db98fc062825c57a3369aa5fb762786
 https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
@@ -12191,10 +12191,10 @@ https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 #EXTINF:-1 tvg-id="RwandaTV.rw" tvg-logo="https://i.imgur.com/4nbGvxW.png" group-title="Undefined",RTV Rwanda 480p Not 247 (SD)
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="San Marino RTV.it" tvg-logo="https://i.ibb.co/yVQF3cW/rtvsmr.png" group-title="World Tv" tvg-name="San Marino RTV",RTV SAN MARINO (HD)
+#EXTINF:-1 tvg-id="San Marino RTV.it" tvg-logo="https://i.ibb.co/yVQF3cW/rtvsmr.png" group-title="World TV" tvg-name="San Marino RTV",RTV SAN MARINO (HD)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n62skw1/rtvsport.png group-title="World Tv" tvg-name="San Marino RTV",RTV SAN MARINO SPORT (HD)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n62skw1/rtvsport.png group-title="World TV" tvg-name="San Marino RTV",RTV SAN MARINO SPORT (HD)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="RTVSLOS.nl" tvg-logo="https://i.imgur.com/xdzrT9A.png" group-title="Undefined",RTV SLOS 720p (SD)
@@ -12989,7 +12989,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7cafff42-3569
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Undefined",SEATV 1080p (HD)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jGgd4vB/selangortv.png" group-title="World Tv",SELANGOR TV (FHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jGgd4vB/selangortv.png" group-title="World TV",SELANGOR TV (FHD)
 https://skyios.sky4k.top/S1G_010/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV 1 1080p (FHD)
@@ -13175,10 +13175,10 @@ https://liveaneviadev.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 group-title="Sports2" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV 2 backup
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV 2 backup
 http://tvkuonline.my.id:25461/riyad/riyad/423
 
-#EXTINF:-1 group-title="Sports2" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV backup
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dl.dropboxusercontent.com/s/7b91c92lplsks96/spotv.png",SPOTV backup
 http://tvkuonline.my.id:25461/riyad/riyad/422
 
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SR_Fernsehen_Logo_2023.svg/512px-SR_Fernsehen_Logo_2023.svg.png" group-title="Undefined",SR Fernsehen 720p
@@ -14268,7 +14268,7 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="News",TGRT Haber 360p Not 247
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="ThaiPBS" tvg-logo="https://i.ibb.co/H2hKM44/thaipbs.png",THAI PBS (FHD)
+#EXTINF:-1 group-title="World TV" tvg-id="ThaiPBS" tvg-logo="https://i.ibb.co/H2hKM44/thaipbs.png",THAI PBS (FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
@@ -14489,7 +14489,7 @@ https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids",TRT ocuk 720p (HD)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="True 4 U.th" tvg-logo="https://i.ibb.co/P49WrDX/true4u24.png",TRUE4U 24 (SD)
+#EXTINF:-1 group-title="World TV" tvg-id="True 4 U.th" tvg-logo="https://i.ibb.co/P49WrDX/true4u24.png",TRUE4U 24 (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
@@ -14505,7 +14505,7 @@ https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 #KODIPROP:inputstream.adaptive.license_key=913d78ccf144b35f5d84d205346d31ab:8b9fac29970248b9f4a8b8def1284f19
 https://vbchcdedge02.national-linear-ddtc-tve.tve.cox.net/TRAVD_HD_CX_DDTVE_59303_0_9221479348826630163.mpd?trred=false
 
-#EXTINF:-1 group-title="World Tv" tvg-id="T-Sports7.th" tvg-logo="https://i.ibb.co/52NpLPP/tsports7th.png",TSports 7
+#EXTINF:-1 group-title="World TV" tvg-id="T-Sports7.th" tvg-logo="https://i.ibb.co/52NpLPP/tsports7th.png",TSports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
@@ -15256,7 +15256,7 @@ https://cdn20.liveonlineservices.com/hls/tv84.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV9 (SD).my" tvg-name="" tvg-logo="https://i.ibb.co/VVknd23/tv9.png" group-title="World Tv",TV9 (SD)
+#EXTINF:-1 tvg-id="TV9 (SD).my" tvg-name="" tvg-logo="https://i.ibb.co/VVknd23/tv9.png" group-title="World TV",TV9 (SD)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HfqKZFr0HoPFIL3fkTk0yg","k":"Zfavh1DSSyMNkbmEI3rB5A"}]}
@@ -16971,7 +16971,7 @@ https://storage.voceabasarabiei.md/vocea/vocea.m3u8
 #EXTINF:-1 tvg-id="Vogue.us" tvg-logo="https://i.imgur.com/2i333B9.jpg" group-title="Lifestyle",Vogue 720p
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnBZPBL/voiceofpalestine.png" group-title="World Tv",Voice Of Palestine (FHD)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnBZPBL/voiceofpalestine.png" group-title="World TV",Voice Of Palestine (FHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 
@@ -17116,7 +17116,7 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",WTVD ABC 11 News RaleighDurham NC 720p (SD)
 https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8
 
-#EXTINF:-1 tvg-name="WWE" tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" group-title="Sports LOKAL",WWE
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://i.ibb.co/hgQ2h4v/Wwe-hometv.jpg" group-title="Local Sports",WWE
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1698
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK (SD)" tvg-logo="https://i.ibb.co/rMqyf0w/wwe.png" group-title="Sports",WWE NETWORK (SD)
@@ -17778,7 +17778,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-logo="https://i.imgur.com/tNKPSkO.png" group-title="Entertainment;Sports",ng Nai 2 576p Not 247 (SD)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="World Tv" tvg-id="" tvg-logo="https://i.ibb.co/17f5SY9/oktolidays (SD).png",oktolidays (SD)
+#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.ibb.co/17f5SY9/oktolidays (SD).png",oktolidays (SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
