@@ -1,17 +1,3 @@
-It appears that the script does not explicitly mention a `requirements.txt` file. To create one, you can list the necessary Python libraries that the script depends on. Here are the steps to generate a `requirements.txt` file:
-
-1. Create a new file named `requirements.txt` in the same directory as your script.
-2. Add the following lines to the `requirements.txt` file:
-
-```
-requests
-tqdm
-```
-
-These are the libraries explicitly used in the script. The script also uses `subprocess`, `re`, and `concurrent.futures`, which are part of the Python standard library and do not need to be included in the `requirements.txt` file.
-
-Here is the updated `README.md` including the creation of `requirements.txt`:
-
 # IPTV Playlist Processor
 
 This script processes an IPTV playlist to clean channel names, remove duplicates, sort entries, and check the availability and resolution of the channels.
