@@ -12,15 +12,15 @@
 ##########################
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
@@ -58,29 +58,29 @@ https://testfunctionlive.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.
 #############################
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 
 
@@ -93,11 +93,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://flv.intechmedia.net/live/ch108.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
@@ -110,27 +110,27 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #############################
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7 HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 
@@ -139,7 +139,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 #############################
 
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/XKueVSGTk2o/master.m3u8
 
 #EXTINF:-1 tvg-id="magnachannel.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
@@ -151,7 +151,7 @@ https://flv.intechmedia.net/live/ch111.m3u8
 https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 tvg-id="metroglobenetwork.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
@@ -160,7 +160,7 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #################################
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png",Kompas TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
 
 
@@ -169,7 +169,7 @@ https://ythls.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
 ##############################
 
 #EXTINF:-1 tvg-id="Net.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/net.png",NET
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 
 
@@ -187,7 +187,7 @@ https://flv.intechmedia.net/live/ch115.m3u8
 ######################
 
 #EXTINF:-1 tvg-id="nusantaratv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png",Nusantara TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="seatoday.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA TODAY
@@ -195,51 +195,51 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://flv.intechmedia.net/live/ch106.m3u8
 
 #EXTINF:-1 tvg-id="GARUDATV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png",Garuda TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #EXTINF:-1 tvg-id="IDTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="MTATV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UC1ZobjxMwDBcUcbI1z6F5VA/master.m3u8
 
 #EXTINF:-1 tvg-id="MTATV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #EXTINF:-1 tvg-id="daaitv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png",DAAITV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 
 #EXTINF:-1 tvg-id="Maxstream.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAXSTREAM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTINF:-1 tvg-id="tvkesehatan.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Digione.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 
 #EXTINF:-1 tvg-id="RRINET.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png",RRI NET
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://rrinet.rri.co.id/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 #EXTINF:-1 tvg-id="GPRTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCn-Ex0zXXTVElhMr12o0zwA/master.m3u8
 
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 
@@ -248,207 +248,207 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 ########################
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/jurnaltv.png",Jurnal TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/saliratv.png",Salira TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/saliratv/saliratv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pktv.png",PK TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/banjartv.png",Banjar TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/dtvi.png",dTVi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e.siar.us/live/dtvi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/batiktv.png",Batik TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCfVhsa1PMBkqYQOqIojVjPA/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ficom.png",FICOM CHANNEL
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/simakmur.png",SiMakmur TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCp0Vb-bWRsJ9rci26TCXV7g/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Yogyakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Jawa Tengah
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Bali
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Jakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Jawa Barat
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Jawa Timur
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Aceh
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Bengkulu
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Gorontalo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Jambi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Kalimantan Barat
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Kalimantan Selatan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Kalimantan Timur
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Kalimantan Tengah
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Lampung
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Ambon
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Nusa Tenggara Barat
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Nusa Tenggara Timur
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Papua
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Papua Barat
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Riau
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sulawesi Barat
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sulawesi Selatan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sulawesi Tengah
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sulawesi Tenggara
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sulawesi Utara
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sumatera Barat
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sumatera Selatan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Sumatera Utara
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvridaerah.png",TVRI Bangka Belitung
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 
 #EXTINF:-1 tvg-id="madutv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/madutv.png",Madu TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InspiraTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/inspiratv.png",Inspira TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SangajiTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/sangajitv.png",Sangaji TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #EXTINF:-1 tvg-id="TATV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tatv.png",TATV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvku.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvku.png",TVKU
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvtabalong.png",TV Tabalong
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UGTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ugtv.png",UGTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/arektv.png",Arek TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/batutv.png",Batu TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://117.103.69.219:8080/live/streaming/index.m3u8
 
 #EXTINF:-1 tvg-id="jawapostv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/jawapostv.png",Jawa Pos TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v2.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="jtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/jtv.png",JTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kstv.png",Kilisuci TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="saktitv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/saktitv.png",Sakti TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bali TV" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/balitv.png",Bali TV
@@ -464,75 +464,75 @@ https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 https://testfunctionlive.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/lingkartv.png",Lingkar TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/bantentv.png",Banten TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net:443/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/jogjatv.png",Jogja TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="dutatv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/dutatv.png",Duta TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/simpang5tv.png",Simpang5 TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://63b2dc7196c38.streamlock.net:1935/ch4/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/bmstv.png",BMSTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pujatvaceh.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pujatv.png",Puja TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v6.siar.us/pujatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kawanuatv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kawanuatv.png",Kawanua TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="brtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/brtv.png",BRTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e1.siar.us/badartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/smtv.png",SMTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rctv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rctv.png",RCTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="batamtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/batamtv.png",Batam TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="jpmtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/jpm.png",JPMTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://63b2dc7196c38.streamlock.net:1935/ch6/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/hbtv.png",Huma Betang TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/bandungtv.png",Bandung TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://202.150.153.254:443/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/bungotv.png",Bungo TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/jitv.png",JITV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/radartv.png",Radar TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 
 
@@ -541,7 +541,7 @@ http://103.140.188.211:1935/radartv/myStream/playlist.m3u8
 ########################
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/muitv.png",MUI TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://mui.siar.us/mui/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="insantv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/insantv.png",Insan TV
@@ -629,67 +629,67 @@ https://flv.intechmedia.net/live/ch25.m3u8
 https://flv.intechmedia.net/live/ch15.m3u8
 
 #EXTINF:-1 tvg-id="surautv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/surautv.png",Surau TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 #EXTINF:-1 tvg-id="deikids.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/deikids.png",DeiKids TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e.siar.us/live/deikidstv.m3u8
 
 #EXTINF:-1 tvg-id="madanitv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/madanitv.png",Madani TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv10.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tv10.png",TV10
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="khbtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/khbtv.png",KHB TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCJHC3VbFsp7kJ2NxPGltwiw/master.m3u8
 
 #EXTINF:-1 tvg-id="rifqantv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rifqantv.png",Rifqan TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCkrLd1cy4AUOp1pAdu1Ru7Q/master.m3u8
 
 #EXTINF:-1 tvg-id="srbtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/srbtv.png",SRB TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UC3_QdDQnRVRDJzq56JTO_Zw/master.m3u8
 
 #EXTINF:-1 tvg-id="artvisi.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/artvisi.png",ARTVISI
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.yufid.com/hls/artvisi.m3u8
 
 #EXTINF:-1 tvg-id="sunnahtv.sa" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/sunnahtv.png",Sunnah TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCROKYPep-UuODNwyipe6JMw/master.m3u8
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/qurantv.png",Qur'an TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCos52azQNBgW63_9uDJoPDA/master.m3u8
 
 #EXTINF:-1 tvg-id="MTATV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UC1ZobjxMwDBcUcbI1z6F5VA/master.m3u8
 
 #EXTINF:-1 tvg-id="MTATV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #EXTINF:-1 tvg-id="MuhammadiyahTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvmu.png",tvMu
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF:-1 tvg-id="MQTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mqtv.png",MQTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tv9.png",tv9 Nusantara
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:-1 tvg-id="alwafatarim.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png",Al Wafa Tarim TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="muslimtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/muslimtv.png",Muslim TV
@@ -705,7 +705,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 https://testfunctionlive.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/wesaltv.png",Wesal TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
@@ -714,351 +714,351 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 ##########################
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Kami Tidak Bertanggungjawab Atas Isi Siaran
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Kami Hanya Mempermudah Untuk Penginputan URL
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",URL Tersebut Redirect Ke Server Lain Di Internet
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Kami Tidak Mengambil Keuntungan Apapun
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Jika Mendapatkan Playlist Ini Dengan Membayar
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Silahkan Minta Kembali Uangnya Ke Penjual
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Jika Terjadi Kendala Silahkan Refresh
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",iptv.urfan.web.id
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Gratis
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Playlist Ini Tanpa Donasi
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Diperjualbelikan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 #EXTINF:-1 tvg-id="iptv.urfan.web.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/info.png",Tidak Boleh Dibundling Untuk Jualan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://iptv.urfan.web.id/info.m3u8
 
 
@@ -1067,7 +1067,7 @@ https://iptv.urfan.web.id/info.m3u8
 ######################
 
 #EXTINF:-1 tvg-id="aniplus.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/aniplus.png",ANIPLUS
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
@@ -1078,11 +1078,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 tvg-id="Funplanet.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/funplanet.png",Fun Planet
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
 #EXTINF:-1 tvg-id="MyKidz.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mykidz.png",My Kidz
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
@@ -1105,7 +1105,7 @@ https://testfunctionlive.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewH
 https://testfunctionlive.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #EXTINF:-1 tvg-id="ebskids.kr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ebskids.png",EBS Kids
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kidstv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kidstv.png",Kids TV
@@ -1115,7 +1115,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://testfunctionlive.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-id="moonbugkids.us" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/moonbug.png",Moonbug Kids
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nickjrasia.sg" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/nickjr.png",Nick Jr. Asia
@@ -1131,15 +1131,15 @@ https://testfunctionlive.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mp
 https://testfunctionlive.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-id="pbskids.us" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pbskids.png",PBS Kids
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="spacetoonarabic.ae" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/spacetoon.png",Spacetoon
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
 #EXTINF:-1 tvg-id="zoomoo.sg" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/zoomoo.png",Zoo Moo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
@@ -1148,19 +1148,19 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 ######################
 
 #EXTINF:-1 tvg-id="cna.sg" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/cna.png",CNA
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index.m3u8
 
 #EXTINF:-1 tvg-id="liputan6.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/liputan6.png",Liputan 6
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UC1QpnGo11epfexw1bIiTHTg/master.m3u8
 
 #EXTINF:-1 tvg-id="aljazeeraenglish.qa" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/aljazeera.png",Al-Jazeera English
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="aljazeera.qa" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/aljazeera.png",Al-Jazeera Arab
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
 #EXTINF:-1 tvg-id="bbcworldnewsasiapacific.uk" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/bbc.png",BBC World News
@@ -1194,7 +1194,7 @@ https://testfunctionlive.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 https://testfunctionlive.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #EXTINF:-1 tvg-id="dwenglish.de" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/dwtv.png",DW HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="euronewsenglish.fr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/euronewstv.png",EuroNews
@@ -1240,7 +1240,7 @@ https://testfunctionlive.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mp
 https://testfunctionlive.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTINF:-1 tvg-id="ntvnews24.jp" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ntvnews.png",NTV News 24
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://n24-cdn-live-b.ntv.co.jp/ch01/index.m3u8
 
 #EXTINF:-1 tvg-id="rt.ru" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rusiatoday.png",Russia Today
@@ -1262,7 +1262,7 @@ https://testfunctionlive.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 https://testfunctionlive.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #EXTINF:-1 tvg-id="voa.us" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/voatv.png",Voice of America
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 
 
@@ -1271,11 +1271,11 @@ https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8
 ###########################
 
 #EXTINF:-1 tvg-id="ebs1tv.kr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ebs.png",EBS 1
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ebs2tv.kr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ebs.png",EBS 2
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bbcearthasia.uk" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/bbcearth.png",BBC Earth
@@ -1285,7 +1285,7 @@ https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 https://testfunctionlive.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-id="sonybbcearth.uk" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/sonybbc.png",Sony BBC Earth
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 
 #EXTINF:-1 tvg-id="cgtndocumentary.cn" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/cgtndocu.png",CGTN Documentary
@@ -1307,7 +1307,7 @@ https://testfunctionlive.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Crime
 https://testfunctionlive.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTINF:-1 tvg-id="lovenature.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/lovenature.png",Love Nature 4K
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lovenature.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/lovenature.png",Love Nature
@@ -1317,11 +1317,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 https://testfunctionlive.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 tvg-id="nasatv.us" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/nasatv.png",NASA TV Media
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="nasatvpublic.us" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/nasatv.png",NASA TV Public
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="outdoorchannel.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/outdoorch.png",Outdoor Channel
@@ -1336,22 +1336,22 @@ https://testfunctionlive.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChan
 ########################
 
 #EXTINF:-1 tvg-id="myfamilychannel.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png",My Family Channel
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-id="mychinemaasia.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mca.png",My Cinema Asia
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-id="rockaction.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rockact.png",Rock Action
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
 #EXTINF:-1 tvg-id="rockentertainment.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rockent.png",Rock Entertainment
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
@@ -1362,7 +1362,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 https://testfunctionlive.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-id="ccm.hk" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ccm.png",Celestial Classic Movies
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
@@ -1373,7 +1373,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 https://testfunctionlive.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-id="celestialmoviesindonesia.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/cm.png",Celestial Movies
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
@@ -1402,7 +1402,7 @@ https://testfunctionlive.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyP
 https://testfunctionlive.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #EXTINF:-1 tvg-id="hitsmovies.sg" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/hitsmovies.png",HITS Movies
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
@@ -1419,7 +1419,7 @@ https://testfunctionlive.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vm
 https://testfunctionlive.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-id="thrill.hk" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/thrill.png",Thrill
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
@@ -1430,7 +1430,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 https://testfunctionlive.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="tvnmoviesasia.hk" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvnmovies.png",tvN Movies
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
@@ -1476,29 +1476,29 @@ https://testfunctionlive.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinema
 https://testfunctionlive.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #EXTINF:-1 tvg-id="nadoo.kr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/nadoo.png",Nadoo Korean
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld.kr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png",KBS World HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld.kr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kbsworld.png",KBS World
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
 #EXTINF:-1 tvg-id="kbskorea.kr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kbskorea.png",KBS Korea
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
 
 #EXTINF:-1 tvg-id="kplus.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kplus.png",K+
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
 #EXTINF:-1 tvg-id="kplus.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kplus.png",K+ HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-id="anhuitv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/anhui.png",Anhui TV
@@ -1514,7 +1514,7 @@ https://testfunctionlive.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 https://testfunctionlive.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 tvg-id="arirangworld.kr" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/arirang.png",Arirang HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axnindonesia.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/axn.png",AXN
@@ -1539,7 +1539,7 @@ https://testfunctionlive.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEnte
 https://testfunctionlive.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-id="Gem.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/gemtv.png",GEM HD
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
 #EXTINF:-1 tvg-id="hits.sg" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/hits.png",HITS HD
@@ -1549,7 +1549,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 https://testfunctionlive.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-id="hits.sg" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/hits.png",HITS
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 
@@ -1572,7 +1572,7 @@ https://testfunctionlive.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 https://testfunctionlive.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1 tvg-id="kix.hk" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kix.png",KIX
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
@@ -1604,7 +1604,7 @@ https://testfunctionlive.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/Shangha
 https://testfunctionlive.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-id="tvnasia.hk" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/tvn.png",tvN
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 
@@ -1626,7 +1626,7 @@ https://testfunctionlive.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mp
 ###########################
 
 #EXTINF:-1 tvg-id="duniagames.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/duniagames.png",Dunia Games
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 
 #EXTINF:-1 tvg-id="celebrities.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/celebrities.png",Celebrities TV
@@ -1693,7 +1693,7 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 #EXTINF:-1 tvg-id="psjtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/psjtv.png",PSJ TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sportstars.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/sportstars.png",Sportstars
@@ -1778,31 +1778,31 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #######################
 
 #EXTINF:-1 tvg-id="popmusic.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/popmusic.png",POP Music
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="maleo.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/maleo.png",Maleo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mictv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mictv.png",MIC TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v2.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvkesehatan.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/imtv.png",IMTV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="musica.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/musica.png",Musica Studios
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCNlU3oSU8UnJ_V9uMB-cPOg/master.m3u8
 
 #EXTINF:-1 tvg-id="aquarius.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png",Aquarius Musikindo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCpJRmMTfdv0iPbnjo6qBw_g/master.m3u8
 
 #EXTINF:-1 tvg-id="nagaswara.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png",Nagaswara
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
 
 #EXTINF:-1 tvg-id="musictv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV
@@ -1812,15 +1812,15 @@ https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
 https://testfunctionlive.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 tvg-id="musikindonesia.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/musikid.png",Musik Indonesia
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/kpoptv.png",K-Pop TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/24kpoptv.png",24hr K-Pop TV
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://live.24hrkpop.com/hls/4/stream.m3u8
 
 
@@ -1924,223 +1924,223 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 ########################
 
 #EXTINF:-1 tvg-id="isykarima.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/isykarima.png",Radio Isykarima
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ssg.streamingmurah.com:8406/;
 
 #EXTINF:-1 tvg-id="dakta.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/dakta.png",Radio Dakta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://175.103.48.4:9302/;
 
 #EXTINF:-1 tvg-id="rodja.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rodja.png",Radio Rodja
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://live2.radiorodja.com/rodja.mp3
 
 #EXTINF:-1 tvg-id="fajrifm.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/fajrifm.png",Fajri FM Bogor
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://live.radioislam.xyz:10998/;
 
 #EXTINF:-1 tvg-id="rdsfm.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rdsfm.png",RDS FM Solo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://117.20.56.143:9900/studio
 
 #EXTINF:-1 tvg-id="RADIKS99.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/radiks99.png",RADIKS99 FM Semarang
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9624/stream
 
 #EXTINF:-1 tvg-id="POPFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/popjkt.png",POP FM Jakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/8272/stream
 
 #EXTINF:-1 tvg-id="POPFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/popjogja.png",POP FM Jogja
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9154/stream
 
 #EXTINF:-1 tvg-id="POPFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/popsmg.png",POP FM Semarang
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9612/stream
 
 #EXTINF:-1 tvg-id="SASFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/sasfm.png",SAS FM Solo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9616/stream
 
 #EXTINF:-1 tvg-id="JPIFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/jpifm.png",JPI FM Solo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9618/stream
 
 #EXTINF:-1 tvg-id="PTPNSolo.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/ptpnsolo.png",PTPN Solo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ssg.streamingmurah.com:8040/;
 
 #EXTINF:-1 tvg-id="TARadio.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/taradio.png",TA Radio Solo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://c1.siar.us:10350/stream
 
 #EXTINF:-1 tvg-id="MettaFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mettafm.png",Metta FM Solo
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://srv1.streamcast.my.id/listen/metta_solo_fm/radio.mp3
 
 #EXTINF:-1 tvg-id="PolarisFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/polarisfm.png",Polaris FM Magelang
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9608/stream
 
 #EXTINF:-1 tvg-id="WijayaFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/wijayafm.png",WIJAYA FM Cilacap
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9604/stream
 
 #EXTINF:-1 tvg-id="YasikaFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/yasikajogja.png",YASIKA FM Jogja
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9610/stream
 
 #EXTINF:-1 tvg-id="AnitaFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/anitafm.png",ANITA FM Tegal
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9620/stream
 
 #EXTINF:-1 tvg-id="GKLFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/gklfm.png",GKL FM Magelang
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9134/stream
 
 #EXTINF:-1 tvg-id="DAMASHINTAFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/damashinta.png",DAMASHINTA FM Pekalongan
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9622/stream
 
 #EXTINF:-1 tvg-id="YasikaFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/yasikapwt.png",YASIKA FM Purwokerto
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9606/stream
 
 #EXTINF:-1 tvg-id="RCTFM.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rctfm.png",RCT FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9614/stream
 
 #EXTINF:-1 tvg-id="RadioParlemen.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/radioparlemen.png",Radio Parlemen
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://icecast.dpr.go.id/dpr.audio
 
 #EXTINF:-1 tvg-id="pramborsfm.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pramborsfm.png",Prambors FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
 
 #EXTINF:-1 tvg-id="radiogentara.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/radiogentara.png",Radio Gentara
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://s1.gntr.net/radio/8080/gentara
 
 #EXTINF:-1 tvg-id="dmi.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/dmi.png",DMI
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://radione.top:8000/dmi
 
 #EXTINF:-1 tvg-id="radiosolopos.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/radiosolopos.png",Radio Solopos
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://live.solopos.com:8002/stream
 
 #EXTINF:-1 tvg-id="swibafm.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/swibafm.png",Swiba FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://s5.alhastream.com/radio/8180/radio
 
 #EXTINF:-1 tvg-id="mtafm.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/mtafm.png",MTA FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://mtamedia.net:1079/;
 
 #EXTINF:-1 tvg-id="persadafm.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/persadafm.png",Persada FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://mtamedia.net:1079/;
 
 #EXTINF:-1 tvg-id="suarapantura.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/suarapantura.png",Suara Pantura FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://mtamedia.net:1038/;
 
 #EXTINF:-1 tvg-id="suarakesuma.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/suarakesuma.png",Suara Kesuma FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 http://mtamedia.net:1055/;
 
 #EXTINF:-1 tvg-id="nasionalfm.bn" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/nasionalfm.png",Nasional FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pilihanfm.bn" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pilihanfm.png",Pilihan FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8
 
 #EXTINF:-1 tvg-id="pelangifm.bn" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pelangifm.png",Pelangi FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="harmonifm.bn" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/harmonifm.png",Harmoni FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nurislamfm.bn" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/nurislamfm.png",Nur Islam FM
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8
 
 #EXTINF:-1 tvg-id="urfanradio.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/urfanradio.png",URFAN RADIO
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://s.urfan.web.id/dengar
 
 #EXTINF:-1 tvg-id="persadafm.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/persadafm.png",Persada FM (Radio Visual)
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCDDuYoSH72v49k3i55UNTQw/master.m3u8
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro1.png",RRI Pro 1 Surakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro1.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro2.png",RRI Pro 2 Surakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro2.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro4.png",RRI Pro 4 Surakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro4.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro1.png",RRI Pro 1 Yogyakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro1.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro2.png",RRI Pro 2 Yogyakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro2.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro4.png",RRI Pro 4 Yogyakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/17/9017/rrijogjapro4.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro1.png",RRI Pro 1 Semarang
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro1.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro2.png",RRI Pro 2 Semarang
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro2.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro4.png",RRI Pro 4 Semarang
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro4.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro1.png",RRI Pro 1 Surabaya
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro1.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro2.png",RRI Pro 2 Surabaya
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro2.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro4.png",RRI Pro 4 Surabaya
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro4.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro1.png",RRI Pro 1 Jakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro2.png",RRI Pro 2 Jakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro3.png",RRI Pro 3
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro4.png",RRI Pro 4 Jakarta
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro5.png",RRI Pro 5
@@ -2148,7 +2148,7 @@ https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 #EXTINF:-1 tvg-id="rri.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/pro6.png",RRI VOI
-
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
 
 
