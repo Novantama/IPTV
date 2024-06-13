@@ -1997,7 +1997,7 @@ https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls16/hrt2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/646hnDS/hrt2.png" group-title="WORLD TV",tvg-id="hrt2🇭🇷"  HRT2 🇭🇷
+#EXTINF:-1 tvg-id="hrt2🇭🇷" tvg-logo="https://i.ibb.co.com/646hnDS/hrt2.png" group-title="WORLD TV",  HRT2 🇭🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=994c79af863838109e7f3503bcd2aff9:d2c19650ad2a2ac77a95453b941a6f0e
@@ -2008,7 +2008,7 @@ https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2.smil/1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls16/hrt3.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5GyVtKY/hrt3.png" group-title="WORLD TV",tvg-id="hrt3🇭🇷"  HRT3 🇭🇷
+#EXTINF:-1 tvg-id="hrt3🇭🇷"  tvg-logo="https://i.ibb.co.com/5GyVtKY/hrt3.png" group-title="WORLD TV", HRT3 🇭🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6f88642f0b3381bbb8ab97badb85105:8cc9172bf1c0dfe5974d22ed08fe51bb
@@ -2048,10 +2048,6 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
 #EXTINF:-1 group-title="WORLD TV" tvg-id="MCOT HD.th" tvg-logo="https://i.ibb.co.com/VwkchB1/mcot.png", MCOT 30 🇹🇭 (FHD 21.77s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/c36Qkdm/musawatv.png" group-title="WORLD TV",tvg-id="musawachannel🇵🇸(sd25.59s)"  Musawa Channel 🇵🇸 (SD 25.59s)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pbc.furrera.ps/musawahd/index.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="NBT 2 HD.th" tvg-logo="https://i.ibb.co.com/FgCJ1F7/nbt2th.png", NBT 2 🇹🇭
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2121,10 +2117,6 @@ https://pptv-7jdibe.cdn.byteark.com/live/drmwv/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PWhmx1g/palestinechlive.png" group-title="WORLD TV",tvg-id="palestinechannellive🇵🇸(sd25.58s)"  Palestine Channel Live 🇵🇸 (SD 25.58s)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pbc.furrera.ps/palestinelivehd/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/g7szPS8/palestinetv.png" group-title="WORLD TV",tvg-id="palestinetv🇵🇸(sd26.18s)"  Palestine TV 🇵🇸 (SD 26.18s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
@@ -2144,9 +2136,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8adf9e686f6b4c35a65c273c6ba5f50b:1db98fc062825c57a3369aa5fb762786
 https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n62skw1/rtvsport.png group-title="WORLD TV" tvg-name="San Marino RTV",tvg-id="rtvsanmarinosport🇸🇲(hd6.54s)"  RTV SAN MARINO SPORT 🇸🇲 (HD 6.54s)
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="San Marino RTV.it" tvg-logo="https://i.ibb.co.com/yVQF3cW/rtvsmr.png" group-title="WORLD TV" tvg-name="San Marino RTV", RTV SAN MARINO 🇸🇲 (HD 14.14s)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
@@ -2183,10 +2172,6 @@ https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="TV6" tvg-name="" tvg-logo="https://i.ibb.co.com/nRsr47w/tv6.png" group-title="WORLD TV", TV6 🇲🇾 (SD 5.52s)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LnBZPBL/voiceofpalestine.png" group-title="WORLD TV",tvg-id="voiceofpalestine🇵🇸(fhd15.30s)"  Voice Of Palestine 🇵🇸 (FHD 15.30s)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pbc.furrera.ps/PalLive/VOPTV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/tcJLF1k/zdf.png" group-title="WORLD TV", ZDF 🇩🇪 (SD 28.92s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
