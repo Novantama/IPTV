@@ -1,9 +1,5 @@
 #EXTM3U billed-msg="therium` PLAYLIST GRATIS 🖖 | Jangan lupa reload secara berkala.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-#################################################################################################################################
-###### JANGAN DICOPY ATAU DICOMOT YA, APALAGI DIREBRANDING DAN DIJUAL LAGI ATAU DIBAGIKAN SEMBARANGAN, PLAYLIST INI GRATIS ######
-#################################################################################################################################
-#EXTM3U billed-msg="iptv.urfan.web.id - Playlist Ini Gratis Tanpa Donasi, Tidak Boleh Diperjualbelikan, Apalagi Dibagikan Sembarangan, Kami Tidak Mengambil Keuntungan Dari Playlist Ini.", url-tvg="https://s.urfan.web.id/epgxmlgz" refresh="3600"
 ##########################
 ######## LPP TVRI ########
 ##########################
@@ -1751,8 +1747,7 @@ https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
 #################################################################################################################################
 ###### JANGAN DICOPY ATAU DICOMOT YA, APALAGI DIREBRANDING DAN DIJUAL LAGI ATAU DIBAGIKAN SEMBARANGAN, PLAYLIST INI GRATIS ######
 #################################################################################################################################
-#EXTM3U billed-msg="iptv.urfan.web.id - Playlist Ini Gratis Tanpa Donasi, Tidak Boleh Diperjualbelikan, Apalagi Dibagikan Sembarangan, Kami Tidak Mengambil Keuntungan Dari Playlist Ini.", url-tvg="https://s.urfan.web.id/epgxmlgz" refresh="3600"
-TEST 
+
 ############## FIFA ###############
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
@@ -2173,8 +2168,7 @@ https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU" group-title="ISLAMI",Dzikir Sebelum Tidur
 https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
-#EXTM3U 
+
 
 #EXTINF:-1 tvg-name="" group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Live 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4221,8 +4215,7 @@ https://www.googleapis.com/drive/v3/files/10lRXPP0lrsjOCjDmQ-aMcQM9pXEmMRQi?alt=
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROh6gNYJ7lriPI9SnTWcbsU3PiA2iEwxt_mQ&usqp=CAU" group-title="ISLAMI",Dzikir Sebelum Tidur
 https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=media&key=AIzaSyCX5QZIYemPG1aHoA29NJblJ5oSuqtEvFY
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
-#EXTM3U 
+
 
 #EXTINF:-1 tvg-name="" group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Live 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
