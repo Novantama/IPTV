@@ -27,7 +27,7 @@ https://www.bevy.be/bevyfiles/slovakiapremium.xml,
 https://www.bevy.be/bevyfiles/chilepremium.xml,
 https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
-
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
 #EXTINF:-1 tvg-name="" tvg-id="STADIA" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="",EURO
 #EXTGRP: EURO2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
