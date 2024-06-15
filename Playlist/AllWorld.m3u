@@ -1028,6 +1028,10 @@ No video files are stored here.
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
 ##http://linearjitp02-playback.astro.com.my/dash-wv/dashiso/1006/default_primary.mpd
 
+#EXTINF:-1 tvg-name="" tvg-id="Arirang" tvg-logo="https://iptv.urfan.web.id/logo/arirang.png" group-title="Entertainment",Arirang HD (22.7s)
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="mjh-abc-tv-plus" tvg-logo="https://i.ibb.co.com/DK7LfQ5/abctvplus.png" group-title="Entertainment",ABC TV PLUS 🇦🇺 (9.5s)
 https://c.mjh.nz/abc-tv-plus.m3u8
 
