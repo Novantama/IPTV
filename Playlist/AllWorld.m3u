@@ -1,7 +1,9 @@
+
 #EXTM3U billed-msg="Novantama TV` PLAYLIST GRATIS 🖖 | Jangan lupa reload secara berkala.", 
 url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/UEFA_Euro_2024_Logo.svg/581px-UEFA_Euro_2024_Logo.svg.png",
+
 #EXTINF:-1 tvg-name="" tvg-id="STADIA" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="",EURO
 #EXTGRP: EURO2024
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -321,6 +323,7 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 ```````EVENT ``````
+
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Music",9XM india (2.5s)
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 
@@ -462,7 +465,7 @@ https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="France 24" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Vision+",France 24 (2.1s)
+#EXTINF:-1 tvg-name="" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Vision+",France 24 (2.1s)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -633,7 +636,6 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
 
 #EXTINF:-1 tvg-name="" tvg-id="Al Quran Al Kareem.id" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13" group-title="Indihome",AL QURAN AL KAREEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1069,20 +1071,20 @@ https://cors.iptvsystem.my.id/https://cdn08jtedge.indihometv.com/dassdvr/194/max
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="Rock Entertainment" tvg-logo="https://i.ibb.co.com/ZJgCm90/rockent.png" group-title="Entertainment",ROCK Entertainment 🇸🇬 (14.8s)
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCK Entertainment" tvg-logo="https://i.ibb.co.com/ZJgCm90/rockent.png" group-title="Entertainment",ROCK Entertainment 🇸🇬 (14.8s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="Rock Entertainment" tvg-logo="https://i.ibb.co.com/ZJgCm90/rockent.png" group-title="Entertainment",ROCK Entertainment 🇸🇬 (4.9s)
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCK Entertainment" tvg-logo="https://i.ibb.co.com/ZJgCm90/rockent.png" group-title="Entertainment",ROCK Entertainment 🇸🇬 (4.9s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="Rock Entertainment" tvg-logo="https://i.ibb.co.com/ZJgCm90/rockent.png" group-title="Entertainment",ROCK Entertainment 🇸🇬 (2.5s)
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-id="ROCK Entertainment" tvg-logo="https://i.ibb.co.com/ZJgCm90/rockent.png" group-title="Entertainment",ROCK Entertainment 🇸🇬 (2.5s)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1345,7 +1347,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/32
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c67cb7de9465062c06ac94e8e065462:5931fc07f285ffe40eb98e130bb090f9
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001
-
 ```````EVENT X EURO 2024``````
 
 #EXTINF:-1 tvg-name="" tvg-id="mjh-abc-kids" tvg-logo="https://i.ibb.co.com/2FGJLGg/abckids.png" group-title="Kids",ABC Kids 🇦🇺 (7.1s)
@@ -2788,7 +2789,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://testfunctionlive.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="France 24" tvg-logo="https://i.ibb.co.com/vJt3csF/france24.png" group-title="News",FRANCE24 🇫🇷 (2.1s)
+#EXTINF:-1 tvg-name="" tvg-id="France24French.fr" tvg-logo="https://i.ibb.co.com/vJt3csF/france24.png" group-title="News",FRANCE24 🇫🇷 (2.1s)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&userid=lite&chname=France_24
@@ -3200,19 +3201,19 @@ https://cors.iptvsystem.my.id/https://cdn08jtedge.indihometv.com/dassdvr/133/bei
 #KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
 
-#EXTINF:-1 tvg-name="" tvg-id="beIN Sports 3" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Sports",BEIN Sports 3 🇫🇷
+#EXTINF:-1 tvg-name="" tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Sports",BEIN Sports 3 🇫🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4531b93e48ab9ea0297a176c515cff14":"473c228f1a579fce6e710e24b22e461f","37a2874e91eedcba955ceeade5594ea6":"2a7feeb0f4717bdd812faa9daa88012d","92ba92959988b3dcc683c86ce540e3a2":"a4ba879567146a794ce2a28b902170a8","b0da602b7d8e4de69a7bc3b24b3d70bc":"b704f74b03b0be6a916b670a5da5eef9","aace08f82b2886e277e12b3565c7c745":"e4ac15509527d5f3b11b17d03354ffb0"}
 ##https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="beIN Sports 3" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Sports",BEIN Sports 3 🇲🇾 (9.3s)
+#EXTINF:-1 tvg-name="" tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Sports",BEIN Sports 3 🇲🇾 (9.3s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
 
-#EXTINF:-1 tvg-name="" tvg-id="beIN Sports 3" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Sports",BEIN Sports 3 🔴 🇮🇩
+#EXTINF:-1 tvg-name="" tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Sports",BEIN Sports 3 🔴 🇮🇩
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4972,15 +4973,7 @@ https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00305/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b169fb2c3214e429b66eb2e19fcafdf:90a98753d8f41ad08906243230975ff1
 https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
-```````` trm` ````````
-``````.THANKS FOR ALL.````
-`````````.2x23.```````````
-████████╗██╗  ██╗███████╗██████╗ ██╗██╗   ██╗███╗   ███╗
-╚══██╔══╝██║  ██║██╔════╝██╔══██╗██║██║   ██║████╗ ████║
-██║   ███████║█████╗  ██████╔╝██║██║   ██║██╔████╔██║
-██║   ██╔══██║██╔══╝  ██╔══██╗██║██║   ██║██║╚██╔╝██║
-██║   ██║  ██║███████╗██║  ██║██║╚██████╔╝██║ ╚═╝ ██║
-╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝     ╚═╝
+
 
 #EXTINF:-1 tvg-name="La 1" tvg-id="La1.TV" tvg-logo="https://i.ibb.co.com/C7PBLRY/la1.png" group-title="WORLD TV",LA 1 🇪🇸 (17.3s)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -5225,7 +5218,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-038/stream.mpd
 #EXTINF:-1 tvg-name="" tvg-id="BandSports HD.br" tvg-logo="https://i.ibb.co.com/WpXSw5W/wesebek.png" group-title="WSBK",WSBK 🇧🇷
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://cdn2.connectbr.com.br/Band-Sports/index.m3u8
-```````` SPORTS ````````
+
 
 #EXTINF:-1 tvg-name="" tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://i.ibb.co.com/WpXSw5W/wesebek.png" group-title="WSBK",WSBK 🇮🇩 (19.1s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -5239,39 +5232,3 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-
-
-# Unmatched Channels:
-# Channel: sky sports golf 🇬🇧, Best Match: sky sport golf hd.de, Similarity: 0.79
-# Channel: sky atlantic 🇬🇧, Best Match: sky atlantic hd.de, Similarity: 0.79
-# Channel: sky showcase 🇬🇧, Best Match: sky showcase hd.de, Similarity: 0.79
-# Channel: sony entertainment television 🇮🇳, Best Match: e! entertainment television (east), Similarity: 0.79
-# Channel: fight network, Best Match: fight network canada, Similarity: 0.79
-# Channel: nickelodeon 🇺🇸 🇮🇩, Best Match: nickelodeon, Similarity: 0.79
-# Channel: nickelodeon 🇺🇸 🇹🇭, Best Match: nickelodeon, Similarity: 0.79
-# Channel: natgeo wild 🇺🇸 🇷🇴, Best Match: natgeo wild, Similarity: 0.79
-# Channel: natgeo wild 🇺🇸 🇸🇰, Best Match: natgeo wild, Similarity: 0.79
-# Channel: sportstars 🇮🇩, Best Match: sportstars 2.id, Similarity: 0.79
-# Channel: ptv sports 🇵🇰, Best Match: tva sports, Similarity: 0.78
-# Channel: sport1+ hd 🇩🇪, Best Match: sport 1 hd, Similarity: 0.78
-# Channel: france24 english 🇫🇷, Best Match: france 24 (english).sg, Similarity: 0.78
-# Channel: sky sports mix 🇬🇧, Best Match: sky sport mix hd.de, Similarity: 0.78
-# Channel: motorvision + 🇩🇪, Best Match: motorvision+.de, Similarity: 0.77
-# Channel: telemundo 🇺🇸, Best Match: telemundo east, Similarity: 0.77
-# Channel: telemundo 🇺🇸, Best Match: telemundo east, Similarity: 0.77
-# Channel: cartoonito 🇬🇧, Best Match: cartoonito.de, Similarity: 0.77
-# Channel: cartoonito 🇬🇧, Best Match: cartoonito.de, Similarity: 0.77
-# Channel: afn hd, Best Match: aptn hd, Similarity: 0.77
-# Channel: afn hd, Best Match: aptn hd, Similarity: 0.77
-# Channel: inews 🇮🇩, Best Match: inews, Similarity: 0.77
-# Channel: inews 🇮🇩, Best Match: inews, Similarity: 0.77
-# Channel: inews 🇮🇩, Best Match: inews, Similarity: 0.77
-# Channel: rtsh sport 🇦🇱, Best Match: rtvs sport hd, Similarity: 0.77
-# Channel: rtvs šport 🇸🇰, Best Match: rtvs sport hd, Similarity: 0.77
-# Channel: tawaf tv 🇮🇩 ☪, Best Match: tawaf tv, Similarity: 0.76
-# Channel: sky nature 🇬🇧, Best Match: sky nature hd.de, Similarity: 0.76
-# Channel: motorvision 🇩🇪, Best Match: motorvision+.de, Similarity: 0.76
-# Channel: motorvision 🇩🇪, Best Match: motorvision+.de, Similarity: 0.76
-# Channel: hbo signature 🇸🇬 🇺🇸, Best Match: hbo signature east, Similarity: 0.76
-# Channel: hbo signature 🇹🇭 🇺🇸, Best Match: hbo signature east, Similarity: 0.76
-# Channel: arena sport 1x2 🇧🇦, Best Match: arena sport 1 hd.sk, Similarity: 0.76
