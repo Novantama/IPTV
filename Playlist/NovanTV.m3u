@@ -703,8 +703,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Wedding Agreement (1.5s)
-https://www.googleapis.com/drive/v3/files/16Hd7392c8_D0CsGI8X6feUVNVeFEYohb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="MettaFM.id" tvg-logo="https://iptv.urfan.web.id/logo/mettafm.png" group-title="Internet Radio",Metta FM Solo (1.5s)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
@@ -1283,10 +1281,6 @@ https://live.mocdn.tv/out/v1/f617293796134126b93ff1fea65c8255/manifest_L1.mpd
 
 #EXTINF:-1 tvg-name="" tvg-id="mjh-redbull-tv" tvg-logo="https://i.ibb.co.com/qkh570c/redbulltv.png" group-title="Sports",REDBULL TV 🌏 (2.7s)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="Moji" tvg-logo="https://iptv.urfan.web.id/logo/moji.png" group-title="Indonesia Channels",Moji (2.8s)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://play.fastkobar.my.id:8080/play/mgaiq3mPDs97GRZaeBjzRObO5MWvfa1FnZHk_9DMUuY
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/dXmMkIU.png" group-title="Internet Radio",ABC Radio Melbourne (2.8s)
 https://mediaserviceslive.akamaized.net/hls/live/2038300/localmelbourne/master.m3u8
@@ -2006,8 +2000,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Perjalanan Pertama (4.8s)
-https://www.googleapis.com/drive/v3/files/10BAw1AoK9DaHaBKJCy32GnTxSqyo_pez?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://iptv.urfan.web.id/logo/qurantv.png" group-title="Religious",Qur'an TV (4.8s)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
@@ -3009,8 +3001,6 @@ http://143.244.60.30/ESPN/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Yowis Ben3 (7.6s)
-https://www.googleapis.com/drive/v3/files/1-nq7vMNv6q_7agU0I5R6D_jg98RZPGFs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/V9v9V8h.png" group-title="Internet Radio",Radio Exterior de España (7.6s)
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
@@ -3184,9 +3174,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nkHFVKP/8tv.png" group-title="WORLD TV",8TV 🇲🇾 (8.0s)
 https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Sayap Sayap Patah (8.1s)
-https://www.googleapis.com/drive/v3/files/1KmmDO7m_jRBWG1OJ5YsGCSFE9KM1QDum?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="Cinemax HD" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Movies",CINEMAX 🇸🇬 🇺🇸 (8.1s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3381,12 +3368,6 @@ https://melon-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Mendarat Darurat (8.7s)
-https://www.googleapis.com/drive/v3/files/1ovJeE0_u8aS8Imto9UjTdIY--yGYVElP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Susah Sinyal (8.7s)
-https://www.googleapis.com/drive/v3/files/1Kjawax5jGDG1jWJIhmN64oegwXPwPEoW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmopKSp.png" group-title="Internet Radio",Motion Radio Jakarta (8.7s)
 https://cast1.my-control-panel.com/proxy/radioso2/stream
@@ -3647,10 +3628,6 @@ https://melon-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 http://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Pesan di Balik Awan (9.7s)
-https://www.googleapis.com/drive/v3/files/10-bEpP4DeGwuCAqxFtKClSlorq_0Ieuo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/ydz4SLT/toonzkids.png" group-title="Kids",TOONZKids (9.7s)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 
@@ -3748,9 +3725,6 @@ https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="" tvg-id="tvsunnah.id" tvg-logo="https://iptv.urfan.web.id/logo/tvsunnah.png" group-title="Religious",TV Sunnah (10.1s)
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch16.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Senzano Savana (10.2s)
-https://www.googleapis.com/drive/v3/files/1AGwOANEL9cir_qA8WcpyOLWZNbfEaSOG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="GBAJ700002OS" tvg-logo="https://i.ibb.co.com/FXyDJ7k/plutotvfood.png" group-title="Lifestyle",PLUTO TV Food 🇺🇸 (10.2s)
 https://i.mjh.nz/SamsungTVPlus/GBAJ700002OS.m3u8
@@ -3910,9 +3884,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/32
 
 #EXTINF:-1 tvg-name="" tvg-id="TF1Switzerland.ch" tvg-logo="https://iili.io/JmogGzN.png" group-title="WORLD TV",TF1 (10.6s)
 http://212.102.60.80/TF1/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",The Day Before The Wedding (10.6s)
-https://www.googleapis.com/drive/v3/files/1z6dnOhEEzQ6S6plA2xzyNj_9CJaSE2lz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="France24French.fr" tvg-logo="https://iili.io/Jhks5ue.png" group-title="News",France 24 (10.6s)
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
@@ -4264,9 +4235,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Supernova: Ksatria Putri & Bintang Jatuh (12.5s)
-https://www.googleapis.com/drive/v3/files/1IxGJtK__bgvi6g40KYyeQEvQC7XVZjw0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmoyxkB.png" group-title="Internet Radio",Smart FM Pekanbaru (12.5s)
 https://cast3.asurahosting.com/proxy/radios27/stream
 
@@ -4284,9 +4252,6 @@ https://flv.intechmedia.net/live/ch10.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="puldapiitv.id" tvg-logo="https://iptv.urfan.web.id/logo/puldapiitv.png" group-title="Religious",PULDAPII TV (12.6s)
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch15.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",The Last Prank (12.7s)
-https://www.googleapis.com/drive/v3/files/16Gfj5R3SF66lLcP9Qlq2hhuHu3yqwvdX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="ESPN.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="Sports",ESPN 4 Brasil (12.7s)
 https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
@@ -4429,9 +4394,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="mjh-redbull-tv" tvg-logo="https://i.ibb.co.com/qkh570c/redbulltv.png" group-title="Sports",REDBULL TV 🌏 (14.0s)
 https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f561zwy85csh9/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Satu Untuk Selamanya (14.1s)
-https://www.googleapis.com/drive/v3/files/1JkJU1q7mvqZIK06KUVXvQJmHTmuHyxAi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="4tv News" tvg-logo="https://iili.io/JmKq2Wu.png" group-title="News",FTV News (14.1s)
 http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
 
@@ -4460,8 +4422,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 tvg-name="" tvg-id="TV3.my" tvg-logo="https://i.ibb.co.com/jHDYftx/tv3.png" group-title="WORLD TV",TV3 🇲🇾 (14.3s)
 https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Preman in Love (14.4s)
-https://www.googleapis.com/drive/v3/files/1VqF1X9yTwC_zopFNRKVfltXkqR2uqdY4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="cjenm.kr" tvg-logo="https://iptv.urfan.web.id/logo/cjenm.png" group-title="Entertainment",CJ E&M (14.5s)
 https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
@@ -4500,9 +4460,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/322122772
 #KODIPROP:inputstream.adaptive.license_key=8e5c88c1ad411ce4aa1fcd3e63fa9448:fb4e6d3c2a444c3711477438bcc0b5fc
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Ada Cinta di SMA (14.8s)
-https://www.googleapis.com/drive/v3/files/17QD-55ydXrdgdxVCWg8iE8AqMxLUL_QP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="News18 India" tvg-logo="https://iili.io/JbnKRQR.png" group-title="News",News18 India (14.8s)
 https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 
@@ -4512,9 +4469,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Serigala Terakhir (14.9s)
-https://www.googleapis.com/drive/v3/files/1tfD2bJmjyc5CjJn3lQbEYGKutk7fquyP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/K9QkP01/bhsports2.png" group-title="Sports",BAHRAIN Sports 2 🇧🇭 (14.9s)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
@@ -4523,9 +4477,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h200/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=IDTV
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Love of Fate (15.0s)
-https://www.googleapis.com/drive/v3/files/11Smi54BAqIpIE6xL6rbEUbXCxv9a-GC0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="Fashion TV Midnight Secrets" tvg-logo="https://iili.io/Jmoc5Ku.png" group-title="Fashion",Fashion TV Midnight Secrets (15.1s)
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -4659,9 +4610,6 @@ https://ensonhaber-live.ercdn.net/haberturk/haberturk.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Kau & Dia (16.7s)
-https://www.googleapis.com/drive/v3/files/130IRjDIhoehAJzAPcWrYVyk4o0OLZLVJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-id="HITS Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJB8FbgSaxkfI6I0HqFaGCzS8B4rETCY5ALA&usqp=CAU" group-title="Movies",HITS Movies (16.7s)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -4706,9 +4654,6 @@ https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Satria Dewa: Gatotkaca (17.3s)
-https://www.googleapis.com/drive/v3/files/1Z4E9LWu_euxsK5KpjlEN_VAmQ489csrQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="sbstv.kr" tvg-logo="https://iptv.urfan.web.id/logo/sbs.png" group-title="Entertainment",SBSTV (17.5s)
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
@@ -4733,9 +4678,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Pulang (17.9s)
-https://www.googleapis.com/drive/v3/files/1LWId8RyHMcjgXxP59TZ7CpsThq3lOdlw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="Al Jazeera Arabic" tvg-logo="https://i.ibb.co.com/mtf68tB/aljazeera.png" group-title="News",AL JAZEERA ARABIC 🇶🇦 (18.0s)
 https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8
 
@@ -4758,9 +4700,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Pertaruhan (18.8s)
-https://www.googleapis.com/drive/v3/files/1qOpPKObAVVwLpG5QB_Ttd6PbqmuWpugf?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/Jmoa1Gn.png" group-title="Sports",Real Madrid TV English (19.0s)
 https://rmtv-canela.amagi.tv/playlist.m3u8
@@ -4807,16 +4746,10 @@ https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="TRTSpor.tr" tvg-logo="https://iili.io/JmoRoUQ.png" group-title="Sports",TRT Spor (19.7s)
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Cross the Line (19.8s)
-https://www.googleapis.com/drive/v3/files/1URcwwXiKODm8mlALd8vBywUEu_2dNhIA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="Movies",Cinemachi Kids (19.8s) tvg-id="Cinemachi Kids.id"#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Kapan Pindah Rumah? (19.9s)
-https://www.googleapis.com/drive/v3/files/1bwOSUXFQIZIsZx9cBTlvf1YdQu4KRVMi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="REPUBLIC TV" tvg-logo="https://iili.io/Jbn32ae.png" group-title="News",Republic TV (20.0s)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8
@@ -4844,8 +4777,6 @@ https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-defa
 #EXTINF:-1 tvg-name="" tvg-id="SkyNewsInternational.uk" tvg-logo="https://i.ibb.co.com/0fvLFLH/skynews.png" group-title="News",sky News 🇬🇧 (20.8s)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Suka Duka Uni Unaa (21.0s)
-https://www.googleapis.com/drive/v3/files/1moZC9_oAXFPGwy7Cv8eZh1NbBV9VOhDl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="Sky Sport MotoGP.it" tvg-logo="https://iili.io/JhkZOMb.png" group-title="Sports",Sky Sport MotoGP (21.2s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -4854,8 +4785,6 @@ https://www.googleapis.com/drive/v3/files/1moZC9_oAXFPGwy7Cv8eZh1NbBV9VOhDl?alt=
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"COGun6DuTZ7CsZTEkIYTrg", "kid":"ADbqLpCNTMIO8IWV2p/5kQ" } ], "type":"temporary" }
 https://linear306-it-dash1-prd-ll.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Ngeri-Ngeri Sedap (21.3s)
-https://www.googleapis.com/drive/v3/files/1yhg2GzeYAAtv-zg6MvET0s188Q3FC5Vj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="Regional",TVRI Sulawesi Tenggara 🇮🇩 (21.6s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4900,9 +4829,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsung
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Anoksia (22.3s)
-https://www.googleapis.com/drive/v3/files/1UJjz5nyCQ7EiVRFxp3c0LG_eNgqZ2jIK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="[London SD] DMAX" tvg-logo="https://i.ibb.co.com/8DfxR99/dmax.png" group-title="Knowledge",DMAX 🇩🇪 (22.3s)
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
@@ -4942,9 +4868,6 @@ https://cast1.my-control-panel.com/proxy/radios16/stream
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6504a3e6da7c9bdf1d3b3dde9ebd4075:8ae7f1e6035ec6fbcad51b522e61fc1c
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHORk%2F7o9ZSvEMcHdX5yljqg9BPtBbwcQhknqc39VUJpD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094239%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094239%2Curn:Huawei:liveTV:SP0010059884%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOUQuCMBzEv80exzaHtoc9FUEQFmS9xt_5d4nT1aZC3z4tezq4u99xQwCDh50uJcs4T6DeGClnUSZLZFIyxoSCjEsS8ZV7LYgB55re5r5asNtle-eMMioEp1yQYpnbO7BrMx-7EoNO_tgFw9QY1FWs6QSRgrUBLQyN7-nZwfsa3FohWKzXeJoqoVjGUqUkGRa3gNjOCXlA3PruCQGro7dfQNfgIpInmBYs5tCh7kfnftwpVPObD9dw2Of0AAAA&tenantId=6001
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",I Need You Baby (23.6s)
-https://www.googleapis.com/drive/v3/files/1V2yxvuDCSdj6KLzPzlS6wEt5uK8cEeqN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="Funplanet.id" tvg-logo="https://iptv.urfan.web.id/logo/funplanet.png" group-title="Kids",Fun Planet (23.6s)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
@@ -4994,9 +4917,6 @@ https://dai.google.com/linear/hls/event/zjYnRBhpR_esWwP8YIEt9Q/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="Gems TV" tvg-logo="https://iili.io/JmoaAYv.png" group-title="Sports",GS TV (24.5s)
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Seperti Dendam Rindu Harus Dibayar Tuntas (24.6s)
-https://www.googleapis.com/drive/v3/files/1oRBN46JO-3hvWQM8m8lTEVS-YU0nSGZm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="Bein 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="Sports",beIN 5 (24.6s)
 http://iptvtree.net:8080/F14995/a84c0963/104
 
@@ -5013,9 +4933,6 @@ https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/inde
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://live3dvbi.msf.cdn.mediaset.net/live/dash-playready-mpx-LB-ll.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Miracle in Cell No. 7 (25.1s)
-https://www.googleapis.com/drive/v3/files/1Sy8P0KfkZU3XX_ifur0NCMbamCaTKs9t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="INBA490002119" tvg-logo="https://iili.io/JbnK7Bp.png" group-title="News",Republic Bharat (25.3s)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
@@ -5069,17 +4986,11 @@ https://cast3.asurahosting.com/proxy/radios25/stream
 #KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
 https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Layar (26.8s)
-https://www.googleapis.com/drive/v3/files/1QqDkyf6MJWnUHmxks5qr6Gc6ASSK055_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="",EURO 🇩🇪 (26.9s)
 #EXTGRP: EURO2024
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Love for Sale 2 (26.9s)
-https://www.googleapis.com/drive/v3/files/1lGaxzRE2KI5DGTqyWWX6twkLhYQFAeDc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="TNT Sports 4 HD" tvg-logo="https://i.ibb.co.com/cwc9MzW/tntsp4.png" group-title="Sports",TNT Sports 4 🇬🇧 (26.9s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5091,9 +5002,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #EXTINF:-1 tvg-name="" tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.ibb.co.com/v1bpVxN/beinxtraen.png" group-title="Sports",BEIN Sports XTRA 🇺🇸 (27.0s)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-vidaa/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Cherish & Ruelle (27.3s)
-https://www.googleapis.com/drive/v3/files/1B_Yw0ee3Mw1lj7uZKZCDzkOuSM6wOveP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://i.ibb.co.com/44jf5LR/beinxtraes.png" group-title="Sports",BEIN Sports XTRA En Español 🇺🇸 (27.3s)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
 
@@ -5102,14 +5010,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 #KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Love for Sale (27.5s)
-https://www.googleapis.com/drive/v3/files/1QIHiznLRHEJ4OxSlvvP1R3-uBQ7Vde3O?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JhvHVjV.png" group-title="News",TV5Monde Info (27.6s)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Clandestine (27.7s)
-https://www.googleapis.com/drive/v3/files/1LYgqcmjFtyA77m-F7AUR18rvNMpCEgoa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="GBBD1100008YW" tvg-logo="https://i.ibb.co.com/HK0Nf10/fifaplus.png" group-title="Sports",FIFA+ 🇦🇹 (27.7s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -5219,18 +5121,12 @@ https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://i.mjh.nz/SamsungTVPlus/CHBA3300010UC.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Eyang Ti (30.8s)
-https://www.googleapis.com/drive/v3/files/1sPQAHnuB8-Jh4hOh-87nhsuqHa1CbzC7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="DAZN GOLF (30.8s)" tvg-logo="" group-title="Sports",DAZN GOLF (30.8s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-505/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Marriage (30.9s)
-https://www.googleapis.com/drive/v3/files/1Ywq2o0ndmKleStRph26gubBr4vztit9E?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/Jmoyfqb.png" group-title="Internet Radio",Smart FM Jakarta (30.9s)
 https://cast2.my-control-panel.com/proxy/radioso3/stream
@@ -5259,9 +5155,6 @@ https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 #EXTINF:-1 tvg-name="" tvg-id="Arirang TV HD" tvg-logo="https://iptv.urfan.web.id/logo/arirang.png" group-title="Entertainment",Arirang HD (31.4s)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Kemarin (31.4s)
-https://www.googleapis.com/drive/v3/files/1n2vmBIoqT1kfRTpNvT3VzIXzgxeWUdMw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="TV5MONDE" tvg-logo="https://iili.io/Jmo33tS.png" group-title="Entertainment",TV5Monde (31.5s)
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
@@ -5299,14 +5192,8 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/mas
 #EXTINF:-1 tvg-name="" tvg-id="CNNTurk.tr" tvg-logo="https://iili.io/JmKHVTJ.png" group-title="News",CNN Türk (32.1s)
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Kau & Dia (32.2s)
-https://www.googleapis.com/drive/v3/files/1b26KXo10FRzT0ZK_aVanisnDEbqcwnpK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="SICNoticias.pt" tvg-logo="https://iili.io/JhkyrRR.png" group-title="News",SIC Notícias (32.3s)
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Menunggu Bunda (32.4s)
-https://www.googleapis.com/drive/v3/files/1NH1ROYrB-zACqhlIbgCPr-UAh_kxxdiu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/HNW9Fmp/snworld.png" group-title="Sports",SN World 🇨🇦 (32.4s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5317,12 +5204,6 @@ https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Gila Lu Ndro! (32.6s)
-https://www.googleapis.com/drive/v3/files/1w6XwRkhbnbbG5_H4zXNROH14dvLTuAQj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",12 Cerita Glen Anggara (32.7s)
-https://www.googleapis.com/drive/v3/files/1RJyBA6pjWdt0ArTcZVIy0g4j0icpsFfR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/VVk2VwR/iribtv3.png" group-title="WORLD TV",IRIB TV3 🇮🇷 (32.7s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
@@ -5343,24 +5224,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/o
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/glBWPdH.png" group-title="Internet Radio",RNE Radio 3 (34.5s)
 https://ztnr.rtve.es/ztnr/2795617.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Hari Yang Dijanjikan (34.7s)
-https://www.googleapis.com/drive/v3/files/1weKZ-8ejDRCEgcuFRf_wSLpDCGYIv8LA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Keluarga Cemara 2 (34.7s)
-https://www.googleapis.com/drive/v3/files/1RljtHPqFNudxFH6MbrxTuYnJ6EGS6XC-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Father & Son (35.1s)
-https://www.googleapis.com/drive/v3/files/1G94bJbLg6zEMGTo4EpGSHA5h4Im8Pie7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="TNT Sports 1 HD" tvg-logo="https://i.ibb.co.com/kqXTRqF/tntsp1.png" group-title="Sports",TNT Sports 1 🇬🇧 (35.1s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Perfect Strangers (35.2s)
-https://www.googleapis.com/drive/v3/files/1HPprQKHMR-457DsXB7ThmunjoaTWEm7s?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/X3sY7K1/blrs5int.png" group-title="Sports",Belarus 5 int 🇧🇾 (35.4s)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -5375,12 +5244,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Balada Sepasang Kekasih Gila (36.6s)
-https://www.googleapis.com/drive/v3/files/1lB7iAm0iPEFH-tadRkTBUienDXpYEP3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Cinta Warung Sebelah (36.9s)
-https://www.googleapis.com/drive/v3/files/1yLmPzuC_ZNmS7meo9jPKc1Bh8Fg8clhv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="Regional",TVRI Aceh 🇮🇩 (36.9s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -5399,21 +5262,12 @@ https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mp
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Cinta Subuh (37.3s)
-https://www.googleapis.com/drive/v3/files/1djDcWHiriXqFbzPQyAiyYbmrnvXTQ0qx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Marlina si Pembunuh dalam Empat Babak (37.8s)
-https://www.googleapis.com/drive/v3/files/1Fs9O7PdGdiCw70W-do_aMS0lhuQrK2Dv?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="Sky Sport F1.it" tvg-logo="https://i.ibb.co.com/1fnKkgw/f1raceinfo.png" group-title="F1",21-23 JUNI SPAIN 🇪🇸 GRAND PRIX 2024 (37.9s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Merindu Cahaya De Amstel (38.0s)
-https://www.googleapis.com/drive/v3/files/15g4NcMOYvyNlGNIKkz0GK_Wcnj-WhOIk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png" group-title="Sports",World Cup 26™ Qualifiers (38.0s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -5447,12 +5301,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",My Sassy Girl (40.0s)
-https://www.googleapis.com/drive/v3/files/1M-HSOsAZJUyX7C7PvGMIptrfTBbyXAHj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="USBC10000129R" tvg-logo="" group-title="Indonesia Channels",Backstage (40.2s)
-https://www.googleapis.com/drive/v3/files/1neVJzMjF_joMezylg2STuOHTVAaqtMKE?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/nQ9q54q/euro2024.png" group-title="",EURO 🇷🇴 (40.3s)
 #EXTGRP: EURO2024
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5466,9 +5314,6 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa59a3d9aef54b58b0301c4f739b8c65:84f5b4481e244e7dbee7cafd9d1a618a
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Cek Ombak Melulu (40.6s)
-https://www.googleapis.com/drive/v3/files/16hLTwDSvPMvdxlyeO4uYjwlmf8DoKPFe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="Sky Sports Arena" tvg-logo="https://iili.io/JhkZW9S.png" group-title="Sports",Sky Sport Arena (40.7s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5508,9 +5353,6 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 #KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Geez & Ann (41.5s)
-https://www.googleapis.com/drive/v3/files/1n1Y0DBr1k0bwLO8eKDaxAdzSi8XSjZks?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-id="CartoonNetwork.de" tvg-logo="https://i.ibb.co.com/mF7gyWV/cn.png" group-title="Kids",CARTOON NETWORK 🇺🇸 🇷🇴 (41.5s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bb72f4f71b743c8b20de75ecebfd4a1:04466fa0a683bfdc5bc3cf0d67776722
@@ -5542,8 +5384,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Ben & Jody (43.1s)
-https://www.googleapis.com/drive/v3/files/15BnYLZSg7YE68YglrBsUHmc_zkMWvsAo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="DisneyChannel.de" tvg-logo="https://i.ibb.co.com/NyMzNn3/disneych.png" group-title="Kids",DISNEY CHANNEL 🇷🇴 (43.4s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -5576,20 +5416,6 @@ https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/mas
 #KODIPROP:inputstream.adaptive.license_key=ca20a93cf8e3421dafbd5bdb1990081b:86ae86a7391c481ea93eecdb740f0a14
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Lara Ati (44.2s)
-https://www.googleapis.com/drive/v3/files/1N8MtFGg-E2PDaX_Dbcn_zh925tvwr-DM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Before I Met You (44.6s)
-https://www.googleapis.com/drive/v3/files/12DnUJAAAHljYp503SbUeU6eD_IUSRMDk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Berbalas Kejam (44.6s)
-https://www.googleapis.com/drive/v3/files/1z1w-0XOwquvmWsTFkAhkjKIoyGZ9FMPe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Jagat Arwah (45.3s)
-https://www.googleapis.com/drive/v3/files/1rnUsX-cEYrNflSk46_eGxhXJxh0J7ZKS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Love in Game (45.4s)
-https://www.googleapis.com/drive/v3/files/1rJlOHyElfVyr2_i-BUUcolzqJFvuaKb5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="SkyNewsInternational.uk" tvg-logo="https://iili.io/JmoKN9f.png" group-title="Entertainment",Das Erste International (45.6s)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
@@ -5645,8 +5471,6 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 #KODIPROP:inputstream.adaptive.license_key=00365b169a077daac5081277c3fd0c28:f68ab32a552e13509a8ee1c4d96204bc
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Baby Blues (48.1s)
-https://www.googleapis.com/drive/v3/files/1OtvcGMbBXa8q70V7N_5-hwOOPeMIshSt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="SSC EXTRA 3" tvg-logo="https://i.ibb.co.com/j3XSf9t/sscxtr3.png" group-title="Sports",SSC EXTRA 3 🇸🇦 (48.1s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5677,9 +5501,6 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/PWhmx1g/palestinechlive.png" group-title="WORLD TV",Palestine Channel Live 🇵🇸 (49.3s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",After Met You (49.4s)
-https://www.googleapis.com/drive/v3/files/11TsHxCkqRWOkWgY_WC_XlRBRSq2PoFEN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-name="" tvg-id="SONY SPORTS TEN 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony Sports 2 (49.6s)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
