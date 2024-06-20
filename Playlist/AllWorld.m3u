@@ -2945,7 +2945,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO Family HD" tvg-logo="https://i.ibb.co.com/vXmmNCQ/hbofam.png" group-title="Movies",HBO FAMILY 🇸🇬 🇺🇸 (6.8s)
+#EXTINF:-1 tvg-name="" tvg-id="HBO Family (HD).sg" tvg-logo="https://i.ibb.co.com/vXmmNCQ/hbofam.png" group-title="Movies",HBO FAMILY 🇸🇬 🇺🇸 (6.8s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
@@ -3372,7 +3372,7 @@ https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-#EXTINF:-1 tvg-name="HBO Family (8.1s)" tvg-id="HBO FAMILY" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" group-title="Movies",HBO Family (8.1s)
+#EXTINF:-1 tvg-name="HBO Family (HD).sg" tvg-id="HBO Family (HD).sg" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" group-title="Movies",HBO Family (8.1s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -5807,7 +5807,7 @@ https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/maste
 #EXTINF:-1 tvg-name="La 2" tvg-id="La2.TV" tvg-logo="https://i.ibb.co.com/wym3mnP/la2.png" group-title="WORLD TV",LA 2 🇪🇸 (56.3s)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO Family.th" tvg-logo="https://i.ibb.co.com/vXmmNCQ/hbofam.png" group-title="Movies",HBO FAMILY 🇹🇭 🇺🇸 (56.4s)
+#EXTINF:-1 tvg-name="" tvg-id="HBO Family (HD).sg" tvg-logo="https://i.ibb.co.com/vXmmNCQ/hbofam.png" group-title="Movies",HBO FAMILY 🇹🇭 🇺🇸 (56.4s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
