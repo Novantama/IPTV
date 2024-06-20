@@ -2382,6 +2382,9 @@ https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTINF:-1 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="Music",KPOP2 (5.8s)
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
+#EXTINF:-1 tvg-name="TV" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="Music",KPOP (7.1s)
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://iptv.urfan.web.id/logo/bn.png" group-title="National",BN Channel (5.8s)
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch112.m3u8
@@ -2780,7 +2783,7 @@ http://iptvtree.net:8080/F14995/a84c0963/102
 #EXTINF:-1 tvg-name="" tvg-id="Show TV" tvg-logo="https://iili.io/JmoZkpn.png" group-title="WORLD TV",Show TV (6.8s)
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="FM" tvg-logo="https://iili.io/JmnpX3l.png" group-title="WORLD SERIES",FMN (6.8s)
+#EXTINF:-1 tvg-name="" tvg-id="FM" tvg-logo="https://iili.io/JmnpX3l.png" group-title="Entertainment",FMN (6.8s)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -4751,7 +4754,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashiontv.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/Kxp5QMG/funplanet.png" group-title="Kids",FUN PLANET 🇮🇩 (18.6s)
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="Movies",Cinemachi (18.7s) tvg-id="Cinemachi.id"#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="Movies",Cinemachi (18.7s)
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
