@@ -511,7 +511,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://streaming.yufid.com/hls/artvisi.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="France5.fr" tvg-logo="https://iili.io/Jmog5qF.png" group-title="FRANCE",France 5 (0.8s)
+#EXTINF:-1 tvg-name="" tvg-id="France5.fr" tvg-logo="https://iili.io/Jmog5qF.png" group-title="WORLD TV",France 5 (0.8s)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_5.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/Jmx9ht1.png" group-title="Internet Radio",C Radio (0.8s)
@@ -548,7 +548,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-name="" tvg-id="India Today" tvg-logo="https://iili.io/Jbn2mZl.png" group-title="News",India Today (0.8s)
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmFZtFs.png" group-title="PARLIAMENTARY",TVR Parlemen (0.8s)
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmFZtFs.png" group-title="WORLD TV",TVR Parlemen (0.8s)
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Bandung TV.id" tvg-logo="https://iili.io/Jbtnh2j.png" group-title="Regional",Bandung TV (0.8s)
@@ -568,7 +568,7 @@ https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="Premier Sports.sg" tvg-logo="https://iili.io/Jmozu2I.png" group-title="Sports",Premier Sports Asia (0.8s)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/premiersport.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TPBS.th" tvg-logo="https://iili.io/JmoLmAu.png" group-title="THAILAND",Thai PBS 3 (0.8s)
+#EXTINF:-1 tvg-name="" tvg-id="TPBS.th" tvg-logo="https://iili.io/JmoLmAu.png" group-title="WORLD TV",Thai PBS 3 (0.8s)
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png" group-title="Brunei",RTB Pelangi (0.9s)
@@ -578,7 +578,7 @@ https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="France3.fr" tvg-logo="https://iili.io/JmognJj.png" group-title="FRANCE",France 3 (0.9s)
+#EXTINF:-1 tvg-name="" tvg-id="France3.fr" tvg-logo="https://iili.io/JmognJj.png" group-title="WORLD TV",France 3 (0.9s)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_3.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="radiogentara.id" tvg-logo="https://iptv.urfan.web.id/logo/radiogentara.png" group-title="Internet Radio",Internet Radio Gentara (0.9s)
@@ -664,7 +664,7 @@ https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro4.mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.4
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
-#EXTINF:-1 tvg-name="" tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Korean Channels",KBS WORLD (1.0s)
+#EXTINF:-1 tvg-name="" tvg-id="KBSWorld.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="KOREA",KBS WORLD (1.0s)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="My Family Channel.id" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png" group-title="Movies",My Family Channel (1.0s)
@@ -749,7 +749,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="France2.fr" tvg-logo="https://iili.io/JmogxOQ.png" group-title="FRANCE",France 2 (1.2s)
+#EXTINF:-1 tvg-name="" tvg-id="France2.fr" tvg-logo="https://iili.io/JmogxOQ.png" group-title="WORLD TV",France 2 (1.2s)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_2.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmE7ae4.png" group-title="Internet Radio",City Guide 911 FM (1.2s)
@@ -765,7 +765,7 @@ https://stream-node0.rri.co.id/streaming/20/9120/rrirotepro1.mp3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://i.klikhost.com/9624/stream
 
-#EXTINF:-1 tvg-name="" tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="Music",Myx USA (1.2s)
+#EXTINF:-1 tvg-name="" tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="Music",Myx WORLD TV (1.2s)
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="AAJ TAK" tvg-logo="https://iili.io/JbnKWQ4.png" group-title="News",Aaj Tak (1.2s)
@@ -781,7 +781,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w448347974.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="Surya TV" tvg-logo="https://iili.io/Jbtncp2.png" group-title="Regional",Surabaya TV (1.2s)
 https://e.siar.us/live/surabayatv.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="beINSports3USA.us" tvg-logo="https://iili.io/JhkQ1kP.png" group-title="Sports",Dubai Sports 3 (1.2s)
+#EXTINF:-1 tvg-name="" tvg-id="beINSports3WORLD TV.us" tvg-logo="https://iili.io/JhkQ1kP.png" group-title="Sports",Dubai Sports 3 (1.2s)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmomG8N.png" group-title="Internet Radio",KLCBS (1.3s)
@@ -859,7 +859,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=BTV
 
-#EXTINF:-1 tvg-name="" tvg-id="France4.fr" tvg-logo="https://iili.io/JmogzbV.png" group-title="FRANCE",France 4 (1.4s)
+#EXTINF:-1 tvg-name="" tvg-id="France4.fr" tvg-logo="https://iili.io/JmogzbV.png" group-title="WORLD TV",France 4 (1.4s)
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_4.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmopnDX.png" group-title="Internet Radio",Nagaswara FM (1.4s)
@@ -879,7 +879,7 @@ https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://v2.siar.us/mic/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="CNN.us" tvg-logo="https://iili.io/JmKv9vn.png" group-title="News",CNN USA (1.4s)
+#EXTINF:-1 tvg-name="" tvg-id="CNN.us" tvg-logo="https://iili.io/JmKv9vn.png" group-title="News",CNN WORLD TV (1.4s)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="MTATV" tvg-logo="https://iili.io/Jbtnakl.png" group-title="Regional",TATV (1.4s)
@@ -1157,7 +1157,7 @@ https://v6.siar.us/pujatv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JbtnRrG.png" group-title="Regional",Simpang5 TV (2.0s)
 https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="GMM25.th" tvg-logo="https://iili.io/JmoQCNa.png" group-title="THAILAND",GMM 25 (2.0s)
+#EXTINF:-1 tvg-name="" tvg-id="GMM25.th" tvg-logo="https://iili.io/JmoQCNa.png" group-title="WORLD TV",GMM 25 (2.0s)
 https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Al Jazeera Arabic" tvg-logo="https://www.dens.tv/images/channel-logo/27.jpg" group-title="Dens TV",Al Jazeera Arabic (2.1s)
@@ -1290,7 +1290,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-name="" tvg-id="Zee Business" tvg-logo="https://iili.io/JbnK0YX.png" group-title="News",Zee Business (2.3s)
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="UniMás" tvg-logo="https://iili.io/JysWukP.png" group-title="USA",Unimás (2.3s)
+#EXTINF:-1 tvg-name="" tvg-id="UniMás" tvg-logo="https://iili.io/JysWukP.png" group-title="WORLD TV",Unimás (2.3s)
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/tsLDl3K.png" group-title="Internet Radio",ABC AFL Extra (2.4s)
@@ -1450,7 +1450,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-name="BTV" tvg-id="Berita Satu - [Channel 103].id" tvg-logo="https://i.ibb.co.com/1n59Tt4/btv.png" group-title="National",BTV 🇮🇩 (2.7s)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="DAZN 2.tw" tvg-logo="https://iili.io/JhkZ38B.png" group-title="Sports",DAZN 2 Taiwan (2.7s)
+#EXTINF:-1 tvg-name="" tvg-id="DAZN 2.tw" tvg-logo="https://iili.io/JhkZ38B.png" group-title="Sports",DAZN 2 WORLD TV (2.7s)
 rtmp://220.130.201.73/sat/tv741
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/5v8PZLs/mixedevent.png" group-title="Sports",Mixed Event 12 (2.7s)
@@ -1520,7 +1520,7 @@ https://sbs-ice.streamguys1.com/sbs2
 #EXTINF:-1 tvg-name="" tvg-id="MIRROR NOW" tvg-logo="https://iili.io/Jbn3H67.png" group-title="News",Mirror Now (2.9s)
 https://dai.google.com/linear/hls/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/1dpHWQq/tv9.png" group-title="Religious",TV9 NUSANTARA 🇮🇩 ☪ (2.9s)
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/1dpHWQq/tv9.png" group-title="Religious",TV9 NWORLD TVNTARA 🇮🇩 ☪ (2.9s)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/5v8PZLs/mixedevent.png" group-title="Sports",Mixed Event 5 (2.9s)
@@ -1530,7 +1530,7 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3e17c3798a294c49b93c1b2ddbcd8f29:0917fa8c9cf68c206efc24946d0c22cc
 https://live.mocdn.tv:443/out/v1/678ab9a54d9844568af751dcaf418d97/manifest_L1.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="ONE 31 HD.th" tvg-logo="https://iili.io/JmoQIPp.png" group-title="THAILAND",One 31 (2.9s)
+#EXTINF:-1 tvg-name="" tvg-id="ONE 31 HD.th" tvg-logo="https://iili.io/JmoQIPp.png" group-title="WORLD TV",One 31 (2.9s)
 https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="TRT World" tvg-logo="https://www.dens.tv/images/channel-logo/41.jpg" group-title="Dens TV",TRT World (3.0s)
@@ -1542,7 +1542,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&amp;user
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Rai3.it" tvg-logo="https://iili.io/Jmo4Df1.png" group-title="ITALY",Rai 3 (3.0s)
+#EXTINF:-1 tvg-name="" tvg-id="Rai3.it" tvg-logo="https://iili.io/Jmo4Df1.png" group-title="WORLD TV",Rai 3 (3.0s)
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="nurislamfm.bn" tvg-logo="https://iptv.urfan.web.id/logo/nurislamfm.png" group-title="Internet Radio",Nur Islam FM (3.0s)
@@ -1612,10 +1612,10 @@ https://live.mocdn.tv/out/v1/9e8f191625804cc5b78af9fca0e78aec/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="Taiwan",SET 三立iNews (3.1s)
+#EXTINF:-1 tvg-name="" tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="WORLD TV",SET 三立iNews (3.1s)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WS4rLOA8_8/Y0KqRNtWYzI/AAAAAAAAB1k/cbAOu9T4qQEnRA6ziEokCy3Ic5cTBw9HACNcBGAsYHQ/s1600/1665313346793424-2.png" group-title="Taiwan",民視新聞台 (3.1s)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6WS4rLOA8_8/Y0KqRNtWYzI/AAAAAAAAB1k/cbAOu9T4qQEnRA6ziEokCy3Ic5cTBw9HACNcBGAsYHQ/s1600/1665313346793424-2.png" group-title="WORLD TV",民視新聞台 (3.1s)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #https://bit.ly/3WBDek3
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -1716,7 +1716,7 @@ https://flv.intechmedia.net/live/ch9.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmocBSf.png" group-title="Religious",Catholic TV (3.3s)
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="beINSportsUSA.us" tvg-logo="https://iili.io/Jmou322.png" group-title="Sports",Band Sports (3.3s)
+#EXTINF:-1 tvg-name="" tvg-id="beINSportsWORLD TV.us" tvg-logo="https://iili.io/Jmou322.png" group-title="Sports",Band Sports (3.3s)
 https://brflu.walk-tv.com/5928/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="Sports",ESPN Brasil (3.3s)
@@ -1799,7 +1799,7 @@ https://ythls.urfan.web.id/stream/UCJHC3VbFsp7kJ2NxPGltwiw/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="Sports",ESPN 2 Brasil (3.5s)
 https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="ABC (WABC) New York, NY" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",NY" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East (3.5s)
+#EXTINF:-1 tvg-name="" tvg-id="ABC (WABC) New York, NY" tvg-logo="https://iili.io/JmoUd6g.png" group-title="WORLD TV",NY" tvg-logo="https://iili.io/JmoUd6g.png" group-title="WORLD TV",ABC East (3.5s)
 http://143.244.60.30/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/jGgd4vB/selangortv.png" group-title="WORLD TV",SELANGOR TV 🇲🇾 (3.5s)
@@ -1907,7 +1907,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Crim
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="beINSports3USA.us" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAI48t.jpg" group-title="Sports",Dubai Sports 3 (3.8s)
+#EXTINF:-1 tvg-name="" tvg-id="beINSports3WORLD TV.us" tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CAI48t.jpg" group-title="Sports",Dubai Sports 3 (3.8s)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="BSNipponTV.jp" tvg-logo="https://iili.io/Jmo6l5b.png" group-title="JAPAN",BS Nippon TV (3.9s)
@@ -2080,7 +2080,7 @@ https://flv.intechmedia.net/live/ch52.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="mjh-7now-FAST" tvg-logo="https://iili.io/JmoZO7t.png" group-title="TÜRKIYE",Now (4.4s)
+#EXTINF:-1 tvg-name="" tvg-id="mjh-7now-FAST" tvg-logo="https://iili.io/JmoZO7t.png" group-title="WORLD TV",Now (4.4s)
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Mutiara FM" tvg-logo="https://iili.io/JmomOPf.png" group-title="Internet Radio",Mara FM (4.5s)
@@ -2255,7 +2255,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 #EXTINF:-1 tvg-name="" tvg-id="Bein 1" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="Sports",beIN 1 (4.9s)
 http://iptvtree.net:8080/F14995/a84c0963/100
 
-#EXTINF:-1 tvg-name="" tvg-id="SHO" tvg-logo="https://iili.io/JmoZUQf.png" group-title="TÜRKIYE",TV 4 (4.9s)
+#EXTINF:-1 tvg-name="" tvg-id="SHO" tvg-logo="https://iili.io/JmoZUQf.png" group-title="WORLD TV",TV 4 (4.9s)
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="133" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg" group-title="Dens TV",KBS Korea (Free Trial) (5.0s)
@@ -2292,7 +2292,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 #EXTINF:-1 tvg-name="" tvg-id="TRT Haber (5.0s) HD" tvg-logo="https://iili.io/JmKHwEN.png" group-title="News",TRT Haber (5.0s)
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Dewan Rakyat" tvg-logo="https://iili.io/JmFZDcG.png" group-title="PARLIAMENTARY",Dewan Rakyat (5.0s)
+#EXTINF:-1 tvg-name="" tvg-id="Dewan Rakyat" tvg-logo="https://iili.io/JmFZDcG.png" group-title="WORLD TV",Dewan Rakyat (5.0s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd?id=7
@@ -2310,7 +2310,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #EXTINF:-1 tvg-name="" tvg-id="TV6" tvg-logo="https://i.ibb.co.com/nRsr47w/tv6.png" group-title="WORLD TV",TV6 🇲🇾 (5.0s)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 tvg-name="Astro SuperSport 4 (5.1s)" tvg-id="Astro SuperSport 4 HD.my" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO",Astro SuperSport 4 (5.1s)
+#EXTINF:-1 tvg-name="Astro SuperSport 4 (5.1s)" tvg-id="Astro SuperSport 4 HD.my" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="Sports",Astro SuperSport 4 (5.1s)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
 #EXTINF:-1 tvg-name="" tvg-id="ANIPLUS HD.sg" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg" group-title="Dens TV",ANIPLUS HD (5.1s)
@@ -2420,7 +2420,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.m
 #EXTINF:-1 tvg-name="" tvg-id="Zee Hindustan (5.3s)" tvg-logo="https://iili.io/JbnKa4I.png" group-title="News",Zee Hindustan (5.3s)
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Dewan Negara" tvg-logo="https://iili.io/JmFZQPn.png" group-title="PARLIAMENTARY",Dewan Negara (5.3s)
+#EXTINF:-1 tvg-name="" tvg-id="Dewan Negara" tvg-logo="https://iili.io/JmFZQPn.png" group-title="WORLD TV",Dewan Negara (5.3s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
@@ -2611,7 +2611,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="France24French.fr" tvg-logo="https://i.ibb.co.com/vJt3csF/france24.png" group-title="News",FRANCE24 🇫🇷 (5.9s)
+#EXTINF:-1 tvg-name="" tvg-id="France24French.fr" tvg-logo="https://i.ibb.co.com/vJt3csF/france24.png" group-title="News",WORLD TV24 🇫🇷 (5.9s)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&userid=lite&chname=France_24
@@ -2668,7 +2668,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="LA7.it" tvg-logo="https://iili.io/Jmo4b0F.png" group-title="ITALY",La 7 (6.1s)
+#EXTINF:-1 tvg-name="" tvg-id="LA7.it" tvg-logo="https://iili.io/Jmo4b0F.png" group-title="WORLD TV",La 7 (6.1s)
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live_1280x720_.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmoyVQn.png" group-title="Internet Radio",Sonora FM Semarang (6.1s)
@@ -2693,7 +2693,7 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch5.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="StarTV.ch" tvg-logo="https://iili.io/JmoZekX.png" group-title="TÜRKIYE",Star TV (6.1s)
+#EXTINF:-1 tvg-name="" tvg-id="StarTV.ch" tvg-logo="https://iili.io/JmoZekX.png" group-title="WORLD TV",Star TV (6.1s)
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Rodja TV" tvg-logo="https://www.dens.tv/images/channel-logo/21.jpg" group-title="Dens TV",RodjaTV (6.2s)
@@ -2811,10 +2811,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #EXTINF:-1 tvg-name="" tvg-id="mjh-sbs-nitv" tvg-logo="https://iili.io/JmKHXQR.png" group-title="News",NTV (6.4s)
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TV25.ch" tvg-logo="https://iili.io/JmUFYsR.png" group-title="PHILIPPINES",TV5 (6.4s)
+#EXTINF:-1 tvg-name="" tvg-id="TV25.ch" tvg-logo="https://iili.io/JmUFYsR.png" group-title="WORLD TV",TV5 (6.4s)
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="RecordTVEuropa.pt" tvg-logo="https://iili.io/JmoUAcG.png" group-title="BRASIL",Record (6.5s)
+#EXTINF:-1 tvg-name="" tvg-id="RecordTVEuropa.pt" tvg-logo="https://iili.io/JmoUAcG.png" group-title="WORLD TV",Record (6.5s)
 https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="My Cinema" tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="Dens TV",My Cinema HD (6.5s)
@@ -2853,7 +2853,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="HRT1.hr" tvg-logo="https://iili.io/JmoZ8Is.png" group-title="TÜRKIYE",TRT 1 (6.5s)
+#EXTINF:-1 tvg-name="" tvg-id="HRT1.hr" tvg-logo="https://iili.io/JmoZ8Is.png" group-title="WORLD TV",TRT 1 (6.5s)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/89bz1kC/rtmparlimen.png" group-title="WORLD TV",PARLIMEN RAKYAT 🇲🇾 (6.5s)
@@ -2900,7 +2900,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="SBT (6.7s).br" tvg-logo="https://iili.io/JmoU794.png" group-title="BRASIL",SBT (6.7s)
+#EXTINF:-1 tvg-name="" tvg-id="SBT (6.7s).br" tvg-logo="https://iili.io/JmoU794.png" group-title="WORLD TV",SBT (6.7s)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w632325341.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmSAkXI.png" group-title="Internet Radio",Kupikupi FM Sarawak (6.7s)
@@ -2970,16 +2970,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #EXTINF:-1 tvg-name="" tvg-id="Bein 3" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg" group-title="Sports",beIN 3 (6.8s)
 http://iptvtree.net:8080/F14995/a84c0963/102
 
-#EXTINF:-1 tvg-name="" tvg-id="Show TV (6.8s) HD" tvg-logo="https://iili.io/JmoZkpn.png" group-title="TÜRKIYE",Show TV (6.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Show TV (6.8s) HD" tvg-logo="https://iili.io/JmoZkpn.png" group-title="WORLD TV",Show TV (6.8s)
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="FM" tvg-logo="https://iili.io/JmnpX3l.png" group-title="WORLD SERIES",FMN (6.8s)
+#EXTINF:-1 tvg-name="" tvg-id="FM" tvg-logo="https://iili.io/JmnpX3l.png" group-title="Entertainment",FMN (6.8s)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Band (6.9s).br" tvg-logo="https://iili.io/JmoUctS.png" group-title="BRASIL",Band (6.9s)
+#EXTINF:-1 tvg-name="" tvg-id="Band (6.9s).br" tvg-logo="https://iili.io/JmoUctS.png" group-title="WORLD TV",Band (6.9s)
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1825787253.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Rai Italia.pt" tvg-logo="https://iili.io/Jmo3ys1.png" group-title="Entertainment",Rai Italia (6.9s)
@@ -3245,7 +3245,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.m
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="SPOTV" tvg-logo="https://hometv.pw/logo/sports2/spotv1.png" group-title="👑EVENT MOTO GP👑",SPOTV (7.6s)
+#EXTINF:-1 tvg-name="" tvg-id="SPOTV" tvg-logo="https://hometv.pw/logo/sports2/spotv1.png" group-title="MotoGP",SPOTV (7.6s)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3332,7 +3332,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="RTL tvi.be" tvg-logo="https://iili.io/JmorwCP.png" group-title="BELGIUM",RTL TVI (7.9s)
+#EXTINF:-1 tvg-name="" tvg-id="RTL tvi.be" tvg-logo="https://iili.io/JmorwCP.png" group-title="WORLD TV",RTL TVI (7.9s)
 https://github.com/inspirationlinks/m3u/raw/live/Streams/RTLTvi.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/wKxilHw.png" group-title="Internet Radio",Hit FM (7.9s)
@@ -3389,7 +3389,7 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="CanalD.ca" tvg-logo="https://iili.io/d9lcIyl.png" group-title="ROMANIA",Kanal D (8.1s)
+#EXTINF:-1 tvg-name="" tvg-id="CanalD.ca" tvg-logo="https://iili.io/d9lcIyl.png" group-title="WORLD TV",Kanal D (8.1s)
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Makkah TV" tvg-logo="https://iptv.urfan.web.id/logo/mekahtv.png" group-title="Religious",Mekah TV (8.1s)
@@ -3441,7 +3441,7 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UC3_QdDQnRVRDJzq56JTO_Zw/master.m3u8
 
-#EXTINF:-1 tvg-name="Astro SuperSport 3 (8.3s)" tvg-id="Astro SuperSport 3 HD.my" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO",Astro SuperSport 3 (8.3s)
+#EXTINF:-1 tvg-name="Astro SuperSport 3 (8.3s)" tvg-id="Astro SuperSport 3 HD.my" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="Sports",Astro SuperSport 3 (8.3s)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 
 #EXTINF:-1 tvg-name="CBeebies" tvg-id="CBeebies.uk" tvg-logo="https://i.ibb.co.com/zn7bHNn/cbeebies.png" group-title="Kids",CBEEBIES 🇬🇧 (8.3s)
@@ -3460,7 +3460,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinem
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch106.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="CanalD.ca" tvg-logo="https://iili.io/d9lczv4.png" group-title="ROMANIA",Kanal D2 (8.3s)
+#EXTINF:-1 tvg-name="" tvg-id="CanalD.ca" tvg-logo="https://iili.io/d9lczv4.png" group-title="WORLD TV",Kanal D2 (8.3s)
 https://stream2.kanald.ro/iphone/knd-live.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="Regional",TVRI Bengkulu 🇮🇩 (8.3s)
@@ -3608,7 +3608,7 @@ https://melon-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiD
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/qNpjCYr/kidsflix.png" group-title="Kids",KidsFLIX (8.8s)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1 tvg-name="" tvg-id="Sportstars 3.id" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="LIVE EVENT",SPORTSTAR 3 HD (8.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Sportstars 3.id" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="EURO2024",SPORTSTAR 3 HD (8.8s)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -3634,7 +3634,7 @@ https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="DAZN 1.tw" tvg-logo="https://iili.io/JhkZfu1.png" group-title="Sports",DAZN 1 Taiwan (8.8s)
+#EXTINF:-1 tvg-name="" tvg-id="DAZN 1.tw" tvg-logo="https://iili.io/JhkZfu1.png" group-title="Sports",DAZN 1 WORLD TV (8.8s)
 rtmp://220.130.201.73/sat/tv731
 
 #EXTINF:-1 tvg-name="" tvg-id="MTV Live" tvg-logo="https://iili.io/JZIQRHv.png" group-title="Music",MTV Live (8.9s)
@@ -3856,7 +3856,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="TVIFiccao.pt" tvg-logo="https://iili.io/JmoBF4t.png" group-title="PORTUGUESE SERIES",TVI Ficção (9.7s)
+#EXTINF:-1 tvg-name="" tvg-id="TVIFiccao.pt" tvg-logo="https://iili.io/JmoBF4t.png" group-title="WORLD TV",TVI Ficção (9.7s)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bit.ly/3gejKxf?720p/playlist.m3u8
@@ -4054,7 +4054,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(51f16000-8c78
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="USAK3508716A" tvg-logo="https://i.ibb.co.com/tJX1NDf/kidoodletv.png" group-title="Kids",KIDOODLE TV 🇺🇸 (10.5s)
+#EXTINF:-1 tvg-name="" tvg-id="WORLD TVK3508716A" tvg-logo="https://i.ibb.co.com/tJX1NDf/kidoodletv.png" group-title="Kids",KIDOODLE TV 🇺🇸 (10.5s)
 https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="OUTDOOR CHANNEL" tvg-id="Outdoor Channel" tvg-logo="https://i.ibb.co.com/jZ2NVqN/outdoorch.png" group-title="Knowledge",OUTDOOR CHANNEL 🇺🇸 (10.5s)
@@ -4071,7 +4071,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch1.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="360.tr" tvg-logo="https://iili.io/JmoZjrN.png" group-title="TÜRKIYE",360 (10.5s)
+#EXTINF:-1 tvg-name="" tvg-id="360.tr" tvg-logo="https://iili.io/JmoZjrN.png" group-title="WORLD TV",360 (10.5s)
 https://ensonhaber-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="CGTN Documentary" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Vision+",CGTN Documentary (10.5s)
@@ -4098,7 +4098,7 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_key=7de0fa3c35f52f8a8517f1600dd11ed7:2d59cf94d10020aeee01a97cd0716eea
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
 
-#EXTINF:-1 tvg-name="" tvg-id="TF1Switzerland.ch" tvg-logo="https://iili.io/JmogGzN.png" group-title="FRANCE",TF1 (10.6s)
+#EXTINF:-1 tvg-name="" tvg-id="TF1Switzerland.ch" tvg-logo="https://iili.io/JmogGzN.png" group-title="WORLD TV",TF1 (10.6s)
 http://212.102.60.80/TF1/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",The Day Before The Wedding (10.6s)
@@ -4338,7 +4338,7 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://ythls.urfan.web.id/stream/UCpJRmMTfdv0iPbnjo6qBw_g/master.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="USAK3508724A" tvg-logo="https://i.ibb.co.com/hCTsgwN/gustotv.png" group-title="Lifestyle",GUSTO TV 🇨🇦 (11.8s)
+#EXTINF:-1 tvg-name="" tvg-id="WORLD TVK3508724A" tvg-logo="https://i.ibb.co.com/hCTsgwN/gustotv.png" group-title="Lifestyle",GUSTO TV 🇨🇦 (11.8s)
 https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="Moonbug Kids" tvg-logo="https://iptv.urfan.web.id/logo/moonbug.png" group-title="Kids",Moonbug Kids (11.9s)
@@ -4422,7 +4422,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Globo (12.3s)rj.br" tvg-logo="https://iili.io/JmoURSf.png" group-title="BRASIL",Globo (12.3s)
+#EXTINF:-1 tvg-name="" tvg-id="Globo (12.3s)rj.br" tvg-logo="https://iili.io/JmoURSf.png" group-title="WORLD TV",Globo (12.3s)
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="Regional",TVRI Sumatra Utara 🇮🇩 (12.3s)
@@ -4601,7 +4601,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/maste
 #EXTINF:-1 tvg-name="" tvg-id="INBD1300003OW" tvg-logo="https://iili.io/JbnKYEN.png" group-title="News",Times Now Navbharat (13.7s)
 https://dai.google.com/linear/hls/event/RDtRdeJUTfuRKDtZcZfZew/master.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="beINSports3USA.us" tvg-logo="https://iptv.urfan.web.id/logo/dubaisports.png" group-title="Sports",Dubai Sports 3 (13.8s)
+#EXTINF:-1 tvg-name="" tvg-id="beINSports3WORLD TV.us" tvg-logo="https://iptv.urfan.web.id/logo/dubaisports.png" group-title="Sports",Dubai Sports 3 (13.8s)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/b2TpfKx/kass4.png" group-title="Sports",AL KASS 4 🇶🇦 (13.9s)
@@ -4717,7 +4717,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h200/index.m3u8?app_type=web&amp;useri
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Indonesia Channels",Love of Fate (15.0s)
 https://www.googleapis.com/drive/v3/files/11Smi54BAqIpIE6xL6rbEUbXCxv9a-GC0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-name="" tvg-id="Fashion TV Midnight Secrets" tvg-logo="https://iili.io/Jmoc5Ku.png" group-title="FASHION",Fashion TV Midnight Secrets (15.1s)
+#EXTINF:-1 tvg-name="" tvg-id="Fashion TV Midnight Secrets" tvg-logo="https://iili.io/Jmoc5Ku.png" group-title="Fashion",Fashion TV Midnight Secrets (15.1s)
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/ct3TzQ3/tvridaerah.png" group-title="Regional",TVRI Jawa Barat 🇮🇩 (15.1s)
@@ -4738,7 +4738,7 @@ https://melon-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #EXTINF:-1 tvg-name="" tvg-id="BloombergTVEurope.uk" tvg-logo="https://iili.io/JmKHjBp.png" group-title="News",Bloomberg HT (15.3s)
 https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="beINSports4USA.us" tvg-logo="https://i.ibb.co.com/wLGqW0B/bein4.png" group-title="Sports",BEIN Sports 4 🇲🇾 (15.3s)
+#EXTINF:-1 tvg-name="" tvg-id="beINSports4WORLD TV.us" tvg-logo="https://i.ibb.co.com/wLGqW0B/bein4.png" group-title="Sports",BEIN Sports 4 🇲🇾 (15.3s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4938,7 +4938,7 @@ https://rodjatv.com/rodjatv/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
 
-#EXTINF:-1 tvg-name="" tvg-id="FashionTVEurope.fr" tvg-logo="https://iili.io/JmocuV9.png" group-title="FASHION",Fashion TV (18.2s)
+#EXTINF:-1 tvg-name="" tvg-id="FashionTVEurope.fr" tvg-logo="https://iili.io/JmocuV9.png" group-title="Fashion",Fashion TV (18.2s)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashiontv.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/Kxp5QMG/funplanet.png" group-title="Kids",FUN PLANET 🇮🇩 (18.6s)
@@ -4958,14 +4958,14 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="HGTV" tvg-id="HGTV" tvg-logo="https://i.ibb.co.com/hCwSVg8/hgtv.png" group-title="Lifestyle",HGTV 🇺🇸 (19.2s)
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="beINSports3USA.us" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Sports",BEIN Sports 3 🇲🇾 (19.2s)
+#EXTINF:-1 tvg-name="" tvg-id="beINSports3WORLD TV.us" tvg-logo="https://i.ibb.co.com/qd5PzZV/daznxbein3.png" group-title="Sports",BEIN Sports 3 🇲🇾 (19.2s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d2418cc6a29a3516d1854ab2973f25f:4979b73603b430465aa4e7bbdefbc4cc
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001
 
-#EXTINF:-1 tvg-name="" tvg-id="SIC (19.4s) HD" tvg-logo="https://iili.io/JmosndF.png" group-title="PORTUGAL",SIC (19.4s)
+#EXTINF:-1 tvg-name="" tvg-id="SIC (19.4s) HD" tvg-logo="https://iili.io/JmosndF.png" group-title="WORLD TV",SIC (19.4s)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="T-Sports7.th" tvg-logo="https://i.ibb.co.com/52NpLPP/tsports7th.png" group-title="WORLD TV",TSPORTS 7 🇹🇭 (19.4s)
@@ -4973,7 +4973,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="SEC Network" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="Entertainment",USA Network (19.5s)
+#EXTINF:-1 tvg-name="" tvg-id="SEC Network" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="Entertainment",WORLD TV Network (19.5s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
@@ -4984,7 +4984,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
 #EXTINF:-1 tvg-name="Food Network (East)" tvg-id="FoodNetwork.uk" tvg-logo="https://i.ibb.co.com/SJggJBt/foodnetwork.png" group-title="Lifestyle",FOOD NETWORK 🇺🇸 (19.5s)
 https://varun-iptv.netlify.app/m3u/Food Network.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="VTM (19.6s).be" tvg-logo="https://iili.io/JmorNG1.png" group-title="BELGIUM",VTM (19.6s)
+#EXTINF:-1 tvg-name="" tvg-id="VTM (19.6s).be" tvg-logo="https://iili.io/JmorNG1.png" group-title="WORLD TV",VTM (19.6s)
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
 #EXTINF:-1 tvg-name="CRACKLE" tvg-id="CRACKLE" tvg-logo="https://i.ibb.co.com/9VcTFW4/crackle.png" group-title="Movies",CRACKLE 🇺🇸 (19.7s)
@@ -5063,7 +5063,7 @@ https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChanne
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/Jmoy972.png" group-title="Internet Radio",Ria FM (21.9s)
 https://cast1.my-control-panel.com/proxy/radioso6/stream
 
-#EXTINF:-1 tvg-name="" tvg-id="Prima TV (21.9s)" tvg-logo="https://iili.io/d9lcxaf.png" group-title="ROMANIA",Prima TV (21.9s)
+#EXTINF:-1 tvg-name="" tvg-id="Prima TV (21.9s)" tvg-logo="https://iili.io/d9lcxaf.png" group-title="WORLD TV",Prima TV (21.9s)
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="ITBA33000478X" tvg-logo="https://i.ibb.co.com/bHFmc1M/waterbear.png" group-title="Knowledge",WaterBear 🇬🇧 (22.0s)
@@ -5096,7 +5096,7 @@ https://www.googleapis.com/drive/v3/files/1UJjz5nyCQ7EiVRFxp3c0LG_eNgqZ2jIK?alt=
 #EXTINF:-1 tvg-name="" tvg-id="[London SD] DMAX" tvg-logo="https://i.ibb.co.com/8DfxR99/dmax.png" group-title="Knowledge",DMAX 🇩🇪 (22.3s)
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="USAJ4300005PJ" tvg-logo="https://iili.io/JmKv2jf.png" group-title="News",Yahoo! Finance (22.6s)
+#EXTINF:-1 tvg-name="" tvg-id="WORLD TVJ4300005PJ" tvg-logo="https://iili.io/JmKv2jf.png" group-title="News",Yahoo! Finance (22.6s)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="Sports",AL KASS 1 🇶🇦 (22.8s)
@@ -5106,7 +5106,7 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1bup/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://iili.io/JmKvRCQ.png" group-title="News",OAN (23.2s)
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="USANetworkWest.us" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="Sports",USA (WEST) 🇺🇸 (23.2s)
+#EXTINF:-1 tvg-name="" tvg-id="WORLD TVNetworkWest.us" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="Sports",WORLD TV (WEST) 🇺🇸 (23.2s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
@@ -5115,7 +5115,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="USANetworkEast.us" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="Sports",USA (EAST) 🇺🇸 (23.3s)
+#EXTINF:-1 tvg-name="" tvg-id="WORLD TVNetworkEast.us" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="Sports",WORLD TV (EAST) 🇺🇸 (23.3s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
@@ -5238,7 +5238,7 @@ https://flucast-rb04-02.flumotion.com/cope/madrid.mp3
 #EXTINF:-1 tvg-name="REAL WILD" tvg-id="INBA4900027A9" tvg-logo="https://i.ibb.co.com/sRhcqHT/realwild.png" group-title="Knowledge",REAL WILD 🇬🇧 (26.0s)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="TVRI" tvg-logo="https://iili.io/JmosBg1.png" group-title="PORTUGAL",TVI (26.0s)
+#EXTINF:-1 tvg-name="" tvg-id="TVRI" tvg-logo="https://iili.io/JmosBg1.png" group-title="WORLD TV",TVI (26.0s)
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="GBBB1000002VQ" tvg-logo="https://iili.io/JmKP6vV.png" group-title="News",TalkTV (26.2s)
@@ -6226,7 +6226,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 #KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
 https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Divinity (88.5s)" tvg-logo="https://iili.io/JmoqA7a.png" group-title="SPANISH SERIES",Divinity (88.5s)
+#EXTINF:-1 tvg-name="" tvg-id="Divinity (88.5s)" tvg-logo="https://iili.io/JmoqA7a.png" group-title="WORLD TV",Divinity (88.5s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
 https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
@@ -6261,7 +6261,7 @@ https://poc-sky0120.glbcdn.net/Content/Channel/live_0120/DASH/manifest.mpd?da=1&
 #KODIPROP:inputstream.adaptive.license_key=a7837ebd0bfe0116ce5de21c7bc6158b:dd2decde9c929bddbee7e47bb68cfdca
 https://cache4.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SONY SPORT",Sony Sports 5 (96.4s)
+#EXTINF:-1 tvg-name="" tvg-id="342" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="Sports",Sony Sports 5 (96.4s)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
 #EXTINF:-1 tvg-name="" tvg-id="358" tvg-logo="https://iili.io/JhkZEF4.png" group-title="Sports",Sky Sport 24 (98.8s)
