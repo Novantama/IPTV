@@ -2572,7 +2572,9 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #EXTINF:-1 tvg-name="" tvg-id="WarnerTV.fr" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Movies",Warner TV (5.8s)
 https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="Music",KPOP2 (5.8s)
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="KOREA", KPOP
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+#EXTINF:-1 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="KOREA",KPOP2 (5.8s)
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://iptv.urfan.web.id/logo/bn.png" group-title="National",BN Channel (5.8s)
@@ -5446,7 +5448,7 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/maste
 #KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
 https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Arirang" tvg-logo="https://iptv.urfan.web.id/logo/arirang.png" group-title="Entertainment",Arirang HD (31.4s)
+#EXTINF:-1 tvg-name="" tvg-id="Arirang" tvg-logo="https://iptv.urfan.web.id/logo/arirang.png" group-title="KOREA",Arirang HD (31.4s)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
