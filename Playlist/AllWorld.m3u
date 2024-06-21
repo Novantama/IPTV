@@ -2425,7 +2425,7 @@ https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
-#EXTINF:-1 tvg-name="San Marino RTV" tvg-id="" tvg-logo="https://i.ibb.co.com/n62skw1/rtvsport.png group-title=" group-title="WORLD TV",RTV SAN MARINO SPORT 🇸🇲 (5.3s)
+#EXTINF:-1 tvg-name="San Marino RTV" tvg-id="" tvg-logo="https://i.ibb.co.com/n62skw1/rtvsport.png group-title="WORLD TV",RTV SAN MARINO SPORT 🇸🇲 (5.3s)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://jplaygame.com/wp-content/uploads/2020/07/unnamed.jpg" group-title="",M LIVE SPL 01 🇸🇬 (5.4s)
@@ -4798,7 +4798,7 @@ https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Discovery Asia HD.my" tvg-logo="https://i.ibb.co.com/gj5J7vb/discoasia.png group-title=" group-title="Knowledge",DISCOVERY ASIA 🇺🇸 (16.3s)
+#EXTINF:-1 tvg-name="" tvg-id="Discovery Asia HD.my" tvg-logo="https://i.ibb.co.com/gj5J7vb/discoasia.png group-title="Knowledge",DISCOVERY ASIA 🇺🇸 (16.3s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
