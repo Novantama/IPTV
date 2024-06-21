@@ -2643,7 +2643,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Entertainment.id" tvg-logo="https://iili.io/JZInddv.png" group-title="Entertainment (6.0s)",Entertainment (6.0s)
+#EXTINF:-1 tvg-name="" tvg-id="Entertainment.id" tvg-logo="https://iili.io/JZInddv.png" group-title="Entertainment",Entertainment (6.0s)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
