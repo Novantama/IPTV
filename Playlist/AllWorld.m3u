@@ -4637,7 +4637,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
-#EXTINF:-1 tvg-id="ANIMAX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROz0htVZPk71-LA5yNlSrd9DSjU0GIfZkYNA&usqp=CAU" group-title="Movies",Animax (14.2s)
+#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROz0htVZPk71-LA5yNlSrd9DSjU0GIfZkYNA&usqp=CAU" group-title="Movies",Animax (14.2s)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
