@@ -1,118 +1,79 @@
-# IPTV Playlist Processor
+Here is a README for the provided scripts, tailored for a GitHub repository:
 
-This script processes an IPTV playlist to clean channel names, remove duplicates, sort entries, and check the availability and resolution of the channels.
+---
 
-## Table of Contents
-- [Download](#download)
-- [Preparation](#preparation)
-- [Installation](#installation)
-- [Features](#features)
-- [Usage](#usage)
-- [Detailed Description of Functions](#detailed-description-of-functions)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
+# M3U Playlist Processor
 
-## Download
+This repository contains a set of Python scripts for processing M3U playlists. The scripts can perform various tasks such as fetching and cleaning playlist data, sorting and eliminating duplicates, and updating TVG IDs using EPG data. 
 
-Clone the repository to your local machine using:
-```bash
-git clone https://github.com/your-username/IPTV-Playlist-Processor.git
-```
+## Contents
 
-Alternatively, you can download the script file directly from the GitHub repository.
+1. **[01. tarikdatamodif.py](01.%20tarikdatamodif.py)**: This script fetches M3U playlists from specified URLs, cleans the data, and writes the output to a file.
+2. **[02. Time-Sort-duplicate.py](02.%20Time-Sort-duplicate.py)**: This script sorts the playlist entries and eliminates duplicate entries based on certain criteria.
+3. **[03. tarik EPG ID dari EPG logging.py](03.%20tarik%20EPG%20ID%20dari%20EPG%20logging.py)**: This script updates the TVG IDs in the playlist entries using EPG data from various sources.
 
-## Preparation
+## Requirements
 
-Ensure you have the following installed on your machine:
 - Python 3.x
-- `requests` library: To install, use `pip install requests`
-- `tqdm` library: To install, use `pip install tqdm`
-- FFmpeg: Follow the [FFmpeg installation guide](https://ffmpeg.org/download.html) appropriate for your operating system.
+- `requests` library
+- `re` library
+- `logging` library
+- `concurrent.futures` library
+- `tqdm` library
+- `difflib` library
 
-## Installation
-
-1. Clone the repository or download the script file as mentioned in the [Download](#download) section.
-2. Navigate to the directory containing the script.
-
+You can install the necessary libraries using pip:
 ```bash
-cd IPTV-Playlist-Processor
+pip install requests tqdm
 ```
-
-3. Create a `requirements.txt` file with the following contents:
-
-```txt
-requests
-tqdm
-```
-
-4. Install the required Python packages.
-
-```bash
-pip install -r requirements.txt
-```
-
-## Features
-
-- **Channel Availability Check**: Checks if the IPTV channel URLs are working.
-- **Resolution Check**: Determines the resolution of the IPTV channels (FHD, HD, SD).
-- **Name Cleaning**: Cleans channel and group names by removing unwanted characters.
-- **Duplicate Removal**: Removes duplicate channel entries.
-- **Sorting**: Sorts the channels by name and URL.
-- **Playlist Formatting**: Formats and writes the processed playlist to an output file.
 
 ## Usage
 
-1. Place your input playlist file (`Input Playlist.txt`) in the appropriate directory.
-2. Modify the `input_path` and `output_path` variables in the `main` function if necessary.
+### 1. Fetch and Clean Playlist Data
 
-```python
-def main():
-    input_path = r'C:\\Users\\Admin\\Downloads\\IPTV\\Input Playlist.txt'
-    output_path = r'C:\\Users\\Admin\\Downloads\\IPTV\\Output Playlist.txt'
-    # ... rest of the code
-```
+Run the `01. tarikdatamodif.py` script to fetch M3U playlists from specified URLs and clean the data. 
 
-3. Run the script.
-
+#### Example:
 ```bash
-python IPTV_Playlist_Processor.py
+python 01. tarikdatamodif.py
 ```
 
-The processed playlist will be saved to the specified `output_path`.
+The script processes the playlists from the URLs defined in the `playlist_urls` list, cleans the data, and saves it to the specified `output_path`.
 
-## Detailed Description of Functions
+### 2. Sort and Eliminate Duplicates
 
-- `is_channel_working(url, timeout=20)`: Checks if a channel URL is working.
-- `get_video_resolution(url, timeout=60)`: Determines the resolution of the video stream from the URL.
-- `clean_name(name)`: Cleans names by removing unwanted characters.
-- `format_group_title(line)`: Formats the group title in a playlist line.
-- `format_channel_name(line)`: Formats the channel name in a playlist line.
-- `parse_playlist(file_path)`: Parses the input playlist file.
-- `remove_duplicates(entries)`: Removes duplicate entries from the playlist.
-- `sort_entries(entries)`: Sorts the playlist entries by channel name and URL.
-- `check_url(url)`: Checks the validity of a channel URL.
-- `check_resolution(url)`: Checks the resolution of a channel URL.
-- `check_and_filter_entries(entries)`: Checks and filters the playlist entries based on URL validity and resolution.
-- `write_playlist(file_path, entries)`: Writes the processed playlist entries to an output file.
-- `main()`: Main function to execute the script.
+Run the `02. Time-Sort-duplicate.py` script to sort the playlist entries and eliminate duplicates.
 
-## Contributing
+#### Example:
+```bash
+python 02. Time-Sort-duplicate.py
+```
 
-Contributions are welcome! Please follow these steps:
+The script reads the cleaned playlist data, sorts it based on time, eliminates duplicates, and saves the sorted data.
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
+### 3. Update TVG IDs Using EPG Data
 
-## Acknowledgments
+Run the `03. tarik EPG ID dari EPG logging.py` script to update the TVG IDs in the playlist entries using EPG data from various sources.
 
-- The `requests` library for handling HTTP requests.
-- The `tqdm` library for providing progress bars.
-- The FFmpeg project for the multimedia framework.
+#### Example:
+```bash
+python 03. tarik EPG ID dari EPG logging.py
+```
+
+The script fetches EPG data from multiple URLs, matches the TVG IDs with the playlist entries, updates the entries, and writes the updated playlist to the specified `output_path`.
+
+## Configuration
+
+You can configure the scripts by modifying the following variables:
+
+- `playlist_urls` in `01. tarikdatamodif.py`: List of URLs to fetch the playlists from.
+- `output_path` in `01. tarikdatamodif.py` and `03. tarik EPG ID dari EPG logging.py`: Path to save the output files.
+- `epg_urls` in `03. tarik EPG ID dari EPG logging.py`: List of URLs to fetch the EPG data from.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to adjust the README as needed to better fit your project's specifics.
