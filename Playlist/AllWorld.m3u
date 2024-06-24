@@ -193,7 +193,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
 
-#EXTINF:-1 tvg-name="" tvg-id="Rock Action" tvg-logo="https://www.dens.tv/images/channel-logo/44.jpg" group-title="Dens TV",ROCK Action (4.3s)
+#EXTINF:-1 tvg-name="" tvg-id="Rock Action.id" tvg-logo="https://www.dens.tv/images/channel-logo/44.jpg" group-title="Dens TV",ROCK Action (4.3s)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
@@ -531,7 +531,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/rai.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="WarnerTV.fr" tvg-logo="https://iili.io/JZIC9Hl.png" group-title="Entertainment",Warner TV (7.7s)
+#EXTINF:-1 tvg-name="" tvg-id="Warner" tvg-logo="https://iili.io/JZIC9Hl.png" group-title="Entertainment",Warner TV (7.7s)
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -585,20 +585,20 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="SkyNewsInternational.uk" tvg-logo="https://iili.io/JmoKN9f.png" group-title="Entertainment",Das Erste International (45.6s)
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmoKN9f.png" group-title="Entertainment",Das Erste International (45.6s)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="More4.uk" tvg-logo="https://iili.io/d9mgkpn.png" group-title="Entertainment",More4 (51.8s)
+#EXTINF:-1 tvg-name="" tvg-id="More 4 HD" tvg-logo="https://iili.io/d9mgkpn.png" group-title="Entertainment",More4 (51.8s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000000000000000000000000006d340a:efee11d60dd6a2afb6865fc141e1c4a0
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="4seven.uk" tvg-logo="https://iili.io/d9mgekX.png" group-title="Entertainment",4seven (53.9s)
+#EXTINF:-1 tvg-name="" tvg-id="4Seven HD" tvg-logo="https://iili.io/d9mgekX.png" group-title="Entertainment",4seven (53.9s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="E4.uk" tvg-logo="https://iili.io/d9mg8Is.png" group-title="Entertainment",E4 (54.1s)
+#EXTINF:-1 tvg-name="" tvg-id="E4 HD" tvg-logo="https://iili.io/d9mg8Is.png" group-title="Entertainment",E4 (54.1s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
@@ -2553,7 +2553,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="Rock Action" tvg-logo="https://iptv.urfan.web.id/logo/rockact.png" group-title="Movies",Rock Action (0.9s)
+#EXTINF:-1 tvg-name="" tvg-id="Rock Action.id" tvg-logo="https://iptv.urfan.web.id/logo/rockact.png" group-title="Movies",Rock Action (0.9s)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
@@ -2649,7 +2649,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Cinemax HD" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Movies",CINEMAX 🇺🇸 (5.4s)
+#EXTINF:-1 tvg-name="" tvg-id="Cinemax HDTV (East)" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Movies",CINEMAX 🇺🇸 (5.4s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
@@ -2666,7 +2666,7 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="WarnerTV.fr" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Movies",Warner TV (5.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Warner" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Movies",Warner TV (5.8s)
 https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-name="CCM" tvg-id="CCM - [Channel 22].id" tvg-logo="https://i.ibb.co.com/FX146VT/ccm.png" group-title="Movies",CCM 🇭🇰 (5.9s)
@@ -2675,7 +2675,7 @@ https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-name="ROCK ACTION" tvg-id="Rock Action" tvg-logo="https://i.ibb.co.com/qCfw7yD/rockact.png" group-title="Movies",ROCK ACTION 🇸🇬 (6.1s)
+#EXTINF:-1 tvg-name="ROCK ACTION" tvg-id="Rock Action.id" tvg-logo="https://i.ibb.co.com/qCfw7yD/rockact.png" group-title="Movies",ROCK ACTION 🇸🇬 (6.1s)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -2692,7 +2692,7 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-name="HBO (6.5s) " tvg-id="HBO (6.5s).id" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="Movies",HBO (6.5s)
+#EXTINF:-1 tvg-name="HBO (6.5s) " tvg-id="HBO (East)" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="Movies",HBO (6.5s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -2709,7 +2709,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO HD" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇸🇬 🇺🇸 (6.8s)
+#EXTINF:-1 tvg-name="" tvg-id="HBO (East)" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇸🇬 🇺🇸 (6.8s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
@@ -2720,7 +2720,7 @@ https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-name="ROCK ACTION" tvg-id="Rock Action" tvg-logo="https://i.ibb.co.com/qCfw7yD/rockact.png" group-title="Movies",ROCK ACTION 🇸🇬 (7.0s)
+#EXTINF:-1 tvg-name="ROCK ACTION" tvg-id="Rock Action.id" tvg-logo="https://i.ibb.co.com/qCfw7yD/rockact.png" group-title="Movies",ROCK ACTION 🇸🇬 (7.0s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2739,13 +2739,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-name="CINEMACHI XTRA" tvg-id="Cinemachi Xtra.id" tvg-logo="https://i.ibb.co.com/L1L12XB/cinemachixtra.png" group-title="Movies",CINEMACHI XTRA 🇬🇧 (7.5s)
+#EXTINF:-1 tvg-name="CINEMACHI XTRA" tvg-id="CINEMACHI XTRA - [Channel 6].id" tvg-logo="https://i.ibb.co.com/L1L12XB/cinemachixtra.png" group-title="Movies",CINEMACHI XTRA 🇬🇧 (7.5s)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO HD" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇺🇸 (7.5s)
+#EXTINF:-1 tvg-name="" tvg-id="HBO (East)" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇺🇸 (7.5s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
@@ -2763,12 +2763,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Cinemax HD" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Movies",CINEMAX 🇸🇬 🇺🇸 (8.1s)
+#EXTINF:-1 tvg-name="" tvg-id="Cinemax HDTV (East)" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Movies",CINEMAX 🇸🇬 🇺🇸 (8.1s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-#EXTINF:-1 tvg-name="HBO Family (8.1s)" tvg-id="HBO Family.my" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" group-title="Movies",HBO Family (8.1s)
+#EXTINF:-1 tvg-name="HBO Family" tvg-id="HBO Family.my" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" group-title="Movies",HBO Family (8.1s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -2856,7 +2856,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinema
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-name="ROCK ACTION" tvg-id="Rock Action" tvg-logo="https://i.ibb.co.com/qCfw7yD/rockact.png" group-title="Movies",ROCK ACTION 🇸🇬 (13.3s)
+#EXTINF:-1 tvg-name="ROCK ACTION" tvg-id="Rock Action.id" tvg-logo="https://i.ibb.co.com/qCfw7yD/rockact.png" group-title="Movies",ROCK ACTION 🇸🇬 (13.3s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
@@ -2923,7 +2923,7 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Movies",Cinemax (22.0s)
+#EXTINF:-1 tvg-name="" tvg-id="Cinemax HDTV (East)" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Movies",Cinemax (22.0s)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2942,7 +2942,7 @@ https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetntro/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Film4 (57.0s).uk" tvg-logo="https://iili.io/d9p9oPI.png" group-title="Movies",Film4 (57.0s)
+#EXTINF:-1 tvg-name="" tvg-id="Film4.uk" tvg-logo="https://iili.io/d9p9oPI.png" group-title="Movies",Film4 (57.0s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
@@ -2952,17 +2952,17 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="CINEMAX.th" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Movies",CINEMAX 🇹🇭 🇺🇸 (67.9s)
+#EXTINF:-1 tvg-name="" tvg-id="Cinemax HDTV (East)" tvg-logo="https://i.ibb.co.com/qgYQyVV/cinemax.png" group-title="Movies",CINEMAX 🇹🇭 🇺🇸 (67.9s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO.th" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇹🇭 🇺🇸 (76.4s)
+#EXTINF:-1 tvg-name="" tvg-id="HBO (East)" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇹🇭 🇺🇸 (76.4s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Somos (78.5s)" tvg-logo="https://iili.io/Jmofi0X.png" group-title="Movies",Somos (78.5s)
+#EXTINF:-1 tvg-name="" tvg-id="Somos" tvg-logo="https://iili.io/Jmofi0X.png" group-title="Movies",Somos (78.5s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a8727d4973b18f61b29ac751b8a7522:10a11fe6ef837a5851cc6eeea7c08dc2
 https://cache3.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd
