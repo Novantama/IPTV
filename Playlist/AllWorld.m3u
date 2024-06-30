@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Novantama TV` PLAYLIST GRATIS 🖖 | Jangan lupa reload secara berkala." url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/sportspremium2.xml,https://www.bevy.be/bevyfiles/sportspremium3.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="23"
+#EXTM3U billed-msg="Novantama TV` PLAYLIST GRATIS 🖖 | Jangan lupa reload secara berkala." url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/sportspremium1.xml,https://www.bevy.be/bevyfiles/sportspremium2.xml,https://www.bevy.be/bevyfiles/sportspremium3.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="23"
 
 # --- Brunei ---
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://rtb-images.glueapi.io/320x0/radio/pelangi-title.png" group-title="Brunei",RTB Pelangi (0.9s)
@@ -201,7 +201,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
 
-#EXTINF:-1 tvg-name="" tvg-id="ROCK Entertainment" tvg-logo="https://www.dens.tv/images/channel-logo/39.jpg" group-title="Dens TV",ROCK Entertainment HD (4.4s)
+#EXTINF:-1 tvg-name="" tvg-id="ROCK ENTERTAINMENT.th" tvg-logo="https://www.dens.tv/images/channel-logo/39.jpg" group-title="Dens TV",ROCK Entertainment HD (4.4s)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
@@ -534,7 +534,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/rai.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Warner" tvg-logo="https://iili.io/JZIC9Hl.png" group-title="Entertainment",Warner TV (7.7s)
+#EXTINF:-1 tvg-name="" tvg-id="Warner TV.th" tvg-logo="https://iili.io/JZIC9Hl.png" group-title="Entertainment",Warner TV (7.7s)
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -2669,7 +2669,7 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="Warner" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Movies",Warner TV (5.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Warner TV.th" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Movies",Warner TV (5.8s)
 https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-name="CCM" tvg-id="CCM - [Channel 22].id" tvg-logo="https://i.ibb.co.com/FX146VT/ccm.png" group-title="Movies",CCM 🇭🇰 (5.9s)
@@ -2695,7 +2695,7 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-name="HBO (6.5s) " tvg-id="HBO (West)" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="Movies",HBO (6.5s)
+#EXTINF:-1 tvg-name="HBO.th" tvg-id="HBO.th" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" group-title="Movies",HBO (6.5s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
@@ -2712,7 +2712,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO (West)" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇸🇬 🇺🇸 (6.8s)
+#EXTINF:-1 tvg-name="" tvg-id="HBO.th" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇸🇬 🇺🇸 (6.8s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
@@ -2748,7 +2748,7 @@ https://melon-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO (West)" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇺🇸 (7.5s)
+#EXTINF:-1 tvg-name="" tvg-id="HBO.th" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇺🇸 (7.5s)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
@@ -2889,7 +2889,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="Movies",Cinemachi Max (15.7s) 
+#EXTINF:-1 tvg-id="Cinemachi Max.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="Movies",Cinemachi Max (15.7s) 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
@@ -2935,7 +2935,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/KwdwK84/wbtv.png" group-title="Movies",WB TV 🇺🇸 (53.8s)
+#EXTINF:-1 tvg-name="" tvg-id="Warner TV.th" tvg-logo="https://i.ibb.co.com/KwdwK84/wbtv.png" group-title="Movies",WB TV 🇺🇸 (53.8s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cba822d983af4339901003e4f741a612:e0d2b9b74ef13dad35068a8b8ac9b3cf
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluetntro/Manifest.mpd
@@ -2960,7 +2960,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO (East)" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇹🇭 🇺🇸 (76.4s)
+#EXTINF:-1 tvg-name="" tvg-id="HBO.th" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="Movies",HBO 🇹🇭 🇺🇸 (76.4s)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
