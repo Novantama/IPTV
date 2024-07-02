@@ -42,6 +42,9 @@ http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 #EXTINF:-1 group-title="Copa America 2024", COPA AMERICA CO: WIN SPORTS+
 http://tvlatino.live:8080/Martv1971/G5cSzPMeRUuH/76703.m3u8
 
+#EXTINF:-1 group-title="Copa America 2024", COPA AMERICA CN: CCTV 5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
 # --- Dens TV ---
 #EXTINF:-1 tvg-name="" tvg-id="3" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" group-title="Dens TV",Live Streaming 1 (0.7s)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
